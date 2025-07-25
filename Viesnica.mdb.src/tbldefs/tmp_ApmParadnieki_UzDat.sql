@@ -1,0 +1,22 @@
+﻿CREATE TABLE [tmp_ApmParadnieki_UzDat] (
+  [Ligums] LONG,
+  [Vards] VARCHAR (255),
+  [Uzvards] VARCHAR (255),
+  [Pers_Kods] VARCHAR (120),
+  [Valsts] VARCHAR (150),
+  [Tel1] VARCHAR (30),
+  [Ievācās] DATETIME,
+  [Ist_Nr] LONG,
+  [Istabā_No] DATETIME,
+  [Istabā_Līdz] DATETIME,
+  [Vietas] LONG,
+  [ApmaksaLīdz] DATETIME,
+  [V_ApmLidz] DATETIME,
+  [STOP] LONG,
+  [Termins] VARCHAR (255),
+  [ParadsLig] DOUBLE,
+  [ParadsPers] DOUBLE,
+  [Lietotajs] VARCHAR (255),
+  [Mark] SHORT,
+  [PID] LONG
+)

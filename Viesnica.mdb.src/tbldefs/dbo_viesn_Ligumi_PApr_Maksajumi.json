@@ -1,0 +1,13 @@
+﻿{
+  "Info": {
+    "Class": "clsDbTableDef",
+    "Description": "Linked Table"
+  },
+  "Items": {
+    "Name": "dbo_viesn_Ligumi_PApr_Maksajumi",
+    "Connect": "ODBC;Description=ALIGUMI01;DRIVER=SQL Server;SERVER=stagars;APP=Microsoft Data Access Components;WSID=IBHP;DATABASE=ALIGUMI01;Network=DBMSSOCN;Address=192.168.255.237,1433;Trusted_Connection=Yes",
+    "SourceTableName": "dbo.viesn_Ligumi_PApr_Maksajumi",
+    "Attributes": 536870912,
+    "PrimaryKey": "[VLPAM_ID]"
+  }
+}

@@ -1,0 +1,10 @@
+﻿{
+  "Info": {
+    "Class": "clsDbSavedSpec",
+    "Description": "Saved Import/Export Specification"
+  },
+  "Items": {
+    "Name": "Export-Saraksts",
+    "XML": "<?xml version=\"1.0\" encoding=\"utf-8\" ?>\n<ImportExportSpecification Path = \"C:\\Users\\evail\\Documents\\Saraksts.xlsx\" xmlns=\"urn:www.microsoft.com/office/access/imexspec\">\n\t<ExportExcelPresentation  AccessObject=\"Saraksts\" ObjectType=\"Form\" AutoStart=\"false\" ExcelFormat=\"Excel12Xml\" />\n</ImportExportSpecification>"
+  }
+}
