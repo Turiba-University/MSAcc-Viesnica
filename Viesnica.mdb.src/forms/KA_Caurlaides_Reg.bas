@@ -14,11 +14,11 @@ Begin Form
     GridY =10
     Width =5050
     DatasheetFontHeight =10
-    ItemSuffix =36
-    Left =6855
-    Top =2055
-    Right =11910
-    Bottom =6525
+    ItemSuffix =40
+    Left =9420
+    Top =2415
+    Right =14475
+    Bottom =6885
     DatasheetGridlinesColor =12632256
     RecSrcDt = Begin
         0x75e25ec17dace240
@@ -238,7 +238,7 @@ Begin Form
                 End
                 Begin TextBox
                     OverlapFlags =85
-                    Left =3450
+                    Left =3420
                     Top =2040
                     Width =1035
                     Height =255
@@ -246,15 +246,17 @@ Begin Form
                     TabIndex =5
                     Name ="Periods_Lidz"
                     ControlSource ="Periods_Lidz"
+                    ValidationRule =">Date()"
+                    ValidationText ="\"Termiņš līdz\" nedrīkst būt tūkšs un datumam ir jābūt nākotnē"
                     Begin
                         Begin Label
                             OverlapFlags =85
-                            Left =2895
+                            Left =2865
                             Top =2040
                             Width =495
                             Height =255
                             Name ="Periods_Lidz_Label"
-                            Caption ="līdz"
+                            Caption ="līdz*"
                         End
                     End
                 End
@@ -291,6 +293,8 @@ Begin Form
                     TabIndex =9
                     Name ="AutoNr"
                     ControlSource ="AutoNr"
+                    ValidationRule ="Is Null Or =\"\" Or Like \"[A-Za-z0-9,;]*\""
+                    ValidationText ="Auto Nr. ir atļauti tikai burti un cipari. Izņēmuma gadijumos , un ;"
                     Begin
                         Begin Label
                             OverlapFlags =85

@@ -14,10 +14,10 @@ Begin Form
     Width =11127
     DatasheetFontHeight =10
     ItemSuffix =30
-    Left =3735
-    Top =780
-    Right =17310
-    Bottom =9075
+    Left =3525
+    Top =1155
+    Right =14940
+    Bottom =9420
     DatasheetGridlinesColor =12632256
     Filter ="((KA_Caurlaides_sar.AutoNr=\"f\"))"
     RecSrcDt = Begin
@@ -309,6 +309,7 @@ Begin Form
                     ControlTipText ="Aizvērt"
                 End
                 Begin CommandButton
+                    Visible = NotDefault
                     OverlapFlags =85
                     Left =4875
                     Top =30

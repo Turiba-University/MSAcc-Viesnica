@@ -6,466 +6,466 @@
   "Items": {
     "MergeBuildDate": null,
     "FullBuildDate": null,
-    "ExportDate": "2025-07-25T07:19:17.000Z",
-    "FullExportDate": "2025-07-25T07:19:17.000Z",
+    "ExportDate": "2025-07-25T07:24:29.000Z",
+    "FullExportDate": "2025-07-25T07:21:05.000Z",
     "OptionsHash": "1e652c7",
     "LastMergedCommit": "",
     "Components": {
       "DB Connections": {
         "db-connection.json": {
           "FileHash": "ecd00c3",
-          "ExportDate": "2025-07-25T07:18:55.000Z",
+          "ExportDate": "2025-07-25T07:20:43.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "4139516"
+          "FilePropertiesHash": "9584bee"
         }
       },
       "DB Properties": {
         "dbs-properties.json": {
-          "FileHash": "a50a0a1",
-          "ExportDate": "2025-07-25T07:18:55.000Z",
+          "FileHash": "984c877",
+          "ExportDate": "2025-07-25T07:20:44.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "acc3744"
+          "FilePropertiesHash": "fc546cc"
         }
       },
       "Doc Properties": {
         "documents.json": {
           "FileHash": "ede3b8e",
-          "ExportDate": "2025-07-25T07:19:17.000Z",
+          "ExportDate": "2025-07-25T07:21:05.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "0151f22"
+          "FilePropertiesHash": "5a69768"
         }
       },
       "Forms": {
         "ApmaksasParadnieki_UzDat.bas": {
           "FileHash": "21219e2",
           "OtherHash": "cd6b374",
-          "ExportDate": "2025-07-25T07:19:07.000Z",
+          "ExportDate": "2025-07-25T07:20:55.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "8baf282"
+          "FilePropertiesHash": "d9ebca0"
         },
         "ApmaksasParadnieki_Uzdatumu.bas": {
           "FileHash": "aa28db2",
           "OtherHash": "23c2f0f",
-          "ExportDate": "2025-07-25T07:19:06.000Z",
+          "ExportDate": "2025-07-25T07:20:55.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "51adc42"
+          "FilePropertiesHash": "7903328"
         },
         "Caurlaides.bas": {
           "FileHash": "972eabd",
           "OtherHash": "53af903",
-          "ExportDate": "2025-07-25T07:19:06.000Z",
+          "ExportDate": "2025-07-25T07:20:55.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "ea11f4e"
+          "FilePropertiesHash": "150a056"
         },
         "Foto.bas": {
           "FileHash": "bc5ab72",
-          "ExportDate": "2025-07-25T07:19:05.000Z",
+          "ExportDate": "2025-07-25T07:20:54.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "72596ce"
+          "FilePropertiesHash": "80cbbd7"
         },
         "Jauns_rezervists.bas": {
           "FileHash": "f895153",
           "OtherHash": "45bbedd",
-          "ExportDate": "2025-07-25T07:19:06.000Z",
+          "ExportDate": "2025-07-25T07:20:55.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "67a1642"
+          "FilePropertiesHash": "4ca8be9"
         },
         "JTM_Izz.bas": {
           "FileHash": "f9b0fbe",
           "OtherHash": "2fa7ff1",
-          "ExportDate": "2025-07-25T07:19:07.000Z",
+          "ExportDate": "2025-07-25T07:20:55.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "165dcf5"
+          "FilePropertiesHash": "f9fd4a3"
         },
         "JTM_Izz_sar.bas": {
           "FileHash": "89a425a",
           "OtherHash": "94a2898",
-          "ExportDate": "2025-07-25T07:19:06.000Z",
+          "ExportDate": "2025-07-25T07:20:55.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "7fbef02"
+          "FilePropertiesHash": "248ec3c"
         },
         "KA.bas": {
           "FileHash": "c16f473",
           "OtherHash": "7957c0b",
-          "ExportDate": "2025-07-25T07:19:06.000Z",
+          "ExportDate": "2025-07-25T07:20:54.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "79a0862"
+          "FilePropertiesHash": "f5422a6"
         },
         "KA_Caurlaides_Reg.bas": {
-          "FileHash": "3efbe15",
-          "OtherHash": "f8d78fb",
-          "ExportDate": "2025-07-25T07:19:05.000Z",
+          "FileHash": "3926634",
+          "OtherHash": "a80f4c8",
+          "ExportDate": "2025-07-25T07:24:19.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "6298239"
+          "FilePropertiesHash": "0864d9f"
         },
         "KA_Caurlaides_sar.bas": {
-          "FileHash": "8930233",
-          "OtherHash": "752d6be",
-          "ExportDate": "2025-07-25T07:19:06.000Z",
+          "FileHash": "c607bbb",
+          "OtherHash": "522c813",
+          "ExportDate": "2025-07-25T07:20:55.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "cc05ee7"
+          "FilePropertiesHash": "d3ede95"
         },
         "KA_PersMeklesana.bas": {
           "FileHash": "cd61848",
           "OtherHash": "f3c98d1",
-          "ExportDate": "2025-07-25T07:19:05.000Z",
+          "ExportDate": "2025-07-25T07:20:54.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "1be1f66"
+          "FilePropertiesHash": "e70e4fa"
         },
         "KA_STOP_saraksta_izmainas.bas": {
           "FileHash": "7a63143",
           "OtherHash": "41d50dc",
-          "ExportDate": "2025-07-25T07:19:06.000Z",
+          "ExportDate": "2025-07-25T07:20:54.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "01e0693"
+          "FilePropertiesHash": "aa69518"
         },
         "KA_sub_cdata.bas": {
           "FileHash": "ca437d4",
           "OtherHash": "c862376",
-          "ExportDate": "2025-07-25T07:19:06.000Z",
+          "ExportDate": "2025-07-25T07:20:54.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "d6c6976"
+          "FilePropertiesHash": "05aad8c"
         },
         "LigumsViesn.bas": {
           "FileHash": "cbb9c54",
           "OtherHash": "e145663",
-          "ExportDate": "2025-07-25T07:19:06.000Z",
+          "ExportDate": "2025-07-25T07:20:55.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "c7d9de9"
+          "FilePropertiesHash": "21ea636"
         },
         "LigumsViesn_Inv_sar.bas": {
           "FileHash": "9e83986",
           "OtherHash": "31fbcb7",
-          "ExportDate": "2025-07-25T07:19:06.000Z",
+          "ExportDate": "2025-07-25T07:20:55.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "22b2371"
+          "FilePropertiesHash": "9a99118"
         },
         "LigumsViesn_PA_sar.bas": {
           "FileHash": "938c578",
           "OtherHash": "8506fe1",
-          "ExportDate": "2025-07-25T07:19:06.000Z",
+          "ExportDate": "2025-07-25T07:20:54.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "5cc63f3"
+          "FilePropertiesHash": "ba41560"
         },
         "LigumsViesnIstabinas_InvIst_sub.bas": {
           "FileHash": "19d0e18",
           "OtherHash": "3ba73aa",
-          "ExportDate": "2025-07-25T07:19:06.000Z",
+          "ExportDate": "2025-07-25T07:20:54.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "929be57"
+          "FilePropertiesHash": "ce61d18"
         },
         "LigumsViesnIstabinas_InvSanem_sub.bas": {
           "FileHash": "2088573",
           "OtherHash": "8701a99",
-          "ExportDate": "2025-07-25T07:19:07.000Z",
+          "ExportDate": "2025-07-25T07:20:55.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "3006979"
+          "FilePropertiesHash": "6de8dca"
         },
         "LigumsViesnIstabinas_MZAkti_sub.bas": {
           "FileHash": "ea3bbec",
           "OtherHash": "68ecd09",
-          "ExportDate": "2025-07-25T07:19:06.000Z",
+          "ExportDate": "2025-07-25T07:20:54.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "e41d465"
+          "FilePropertiesHash": "7d3acfe"
         },
         "LigumsViesnIstabinas_PASar_Samaksa_sub.bas": {
           "FileHash": "2f43a88",
           "OtherHash": "5122e45",
-          "ExportDate": "2025-07-25T07:19:07.000Z",
+          "ExportDate": "2025-07-25T07:20:55.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "169e8c2"
+          "FilePropertiesHash": "af0ce69"
         },
         "LigumsViesnIstabinas_PASar_sub.bas": {
           "FileHash": "3f479f4",
           "OtherHash": "b84ba97",
-          "ExportDate": "2025-07-25T07:19:06.000Z",
+          "ExportDate": "2025-07-25T07:20:54.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "8502f13"
+          "FilePropertiesHash": "1f86208"
         },
         "LigumsViesnIstabinas_sub.bas": {
           "FileHash": "1b2d484",
           "OtherHash": "b010309",
-          "ExportDate": "2025-07-25T07:19:06.000Z",
+          "ExportDate": "2025-07-25T07:20:54.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "f14f6c2"
+          "FilePropertiesHash": "069827e"
         },
         "LigumsViesnIstValstis_sub.bas": {
           "FileHash": "6c18dce",
           "OtherHash": "ca779df",
-          "ExportDate": "2025-07-25T07:19:07.000Z",
+          "ExportDate": "2025-07-25T07:20:55.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "19f52d1"
+          "FilePropertiesHash": "288c1b6"
         },
         "LigumsViesnMaksajumi_sub.bas": {
           "FileHash": "3a1c7b9",
           "OtherHash": "6ae3e46",
-          "ExportDate": "2025-07-25T07:19:06.000Z",
+          "ExportDate": "2025-07-25T07:20:54.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "7622b52"
+          "FilePropertiesHash": "e038cf3"
         },
         "Meklesana.bas": {
           "FileHash": "78ccdd8",
           "OtherHash": "2c0556a",
-          "ExportDate": "2025-07-25T07:19:07.000Z",
+          "ExportDate": "2025-07-25T07:20:55.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "0d35ed0"
+          "FilePropertiesHash": "f42958b"
         },
         "Meklesana_Ligumam.bas": {
           "FileHash": "29e0503",
           "OtherHash": "2995220",
-          "ExportDate": "2025-07-25T07:19:06.000Z",
+          "ExportDate": "2025-07-25T07:20:54.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "88cfdb0"
+          "FilePropertiesHash": "2aaf11b"
         },
         "Meklesana_Persona.bas": {
           "FileHash": "5047309",
           "OtherHash": "24f7416",
-          "ExportDate": "2025-07-25T07:19:05.000Z",
+          "ExportDate": "2025-07-25T07:20:54.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "9d8f955"
+          "FilePropertiesHash": "a33ad63"
         },
         "Meklesana_Persona_Jur.bas": {
           "FileHash": "dac8ac0",
           "OtherHash": "f7a9d67",
-          "ExportDate": "2025-07-25T07:19:06.000Z",
+          "ExportDate": "2025-07-25T07:20:54.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "05507d2"
+          "FilePropertiesHash": "4792388"
         },
         "MPazinojumi.bas": {
           "FileHash": "d55873d",
           "OtherHash": "e071ab1",
-          "ExportDate": "2025-07-25T07:19:07.000Z",
+          "ExportDate": "2025-07-25T07:20:55.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "96d921f"
+          "FilePropertiesHash": "e041813"
         },
         "MZAkti_sar.bas": {
           "FileHash": "88171f9",
           "OtherHash": "68ecd09",
-          "ExportDate": "2025-07-25T07:19:06.000Z",
+          "ExportDate": "2025-07-25T07:20:54.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "8c7cbc5"
+          "FilePropertiesHash": "2563d40"
         },
         "MZAkts.bas": {
           "FileHash": "80c013c",
           "OtherHash": "2073368",
-          "ExportDate": "2025-07-25T07:19:05.000Z",
+          "ExportDate": "2025-07-25T07:20:54.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "14d255e"
+          "FilePropertiesHash": "15bc482"
         },
         "MZAkts_Sask.bas": {
           "FileHash": "d54bb9a",
           "OtherHash": "99ff3cd",
-          "ExportDate": "2025-07-25T07:19:06.000Z",
+          "ExportDate": "2025-07-25T07:20:55.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "892a59d"
+          "FilePropertiesHash": "1a73f04"
         },
         "MZAkts_sub.bas": {
           "FileHash": "7201fdd",
           "OtherHash": "d5fa64f",
-          "ExportDate": "2025-07-25T07:19:06.000Z",
+          "ExportDate": "2025-07-25T07:20:54.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "c8c744c"
+          "FilePropertiesHash": "594e947"
         },
         "Parskats_LabotValsti.bas": {
           "FileHash": "ac019d3",
-          "ExportDate": "2025-07-25T07:19:06.000Z",
+          "ExportDate": "2025-07-25T07:20:55.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "27a140e"
+          "FilePropertiesHash": "1af5d84"
         },
         "ParskatsPaValstim.bas": {
           "FileHash": "fa420e0",
           "OtherHash": "7d8208b",
-          "ExportDate": "2025-07-25T07:19:06.000Z",
+          "ExportDate": "2025-07-25T07:20:55.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "81531ed"
+          "FilePropertiesHash": "8aa943c"
         },
         "PE_LigumsViesn.bas": {
           "FileHash": "1192c07",
           "OtherHash": "19a2405",
-          "ExportDate": "2025-07-25T07:19:06.000Z",
+          "ExportDate": "2025-07-25T07:20:55.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "adc6142"
+          "FilePropertiesHash": "9fec81a"
         },
         "PE_LigumsViesnIstabinas_PASar_Samaksa_sub.bas": {
           "FileHash": "98fa8d5",
           "OtherHash": "5122e45",
-          "ExportDate": "2025-07-25T07:19:07.000Z",
+          "ExportDate": "2025-07-25T07:20:55.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "dea59f0"
+          "FilePropertiesHash": "9b13239"
         },
         "PE_LigumsViesnIstabinas_PASar_sub.bas": {
           "FileHash": "ba689b5",
           "OtherHash": "b84ba97",
-          "ExportDate": "2025-07-25T07:19:06.000Z",
+          "ExportDate": "2025-07-25T07:20:54.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "5c5a3d1"
+          "FilePropertiesHash": "90ceb97"
         },
         "PE_LigumsViesnMaksajumi_sub.bas": {
           "FileHash": "cfd70f1",
           "OtherHash": "9aaf3c1",
-          "ExportDate": "2025-07-25T07:19:06.000Z",
+          "ExportDate": "2025-07-25T07:20:54.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "d2f689f"
+          "FilePropertiesHash": "f674e6a"
         },
         "Pers_meklesana.bas": {
           "FileHash": "7b6f7c7",
           "OtherHash": "c7b72ce",
-          "ExportDate": "2025-07-25T07:19:05.000Z",
+          "ExportDate": "2025-07-25T07:20:54.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "311e8ba"
+          "FilePropertiesHash": "d162f80"
         },
         "Personas_dati.bas": {
           "FileHash": "a549ab8",
           "OtherHash": "da79c39",
-          "ExportDate": "2025-07-25T07:19:06.000Z",
+          "ExportDate": "2025-07-25T07:20:55.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "a0c87b0"
+          "FilePropertiesHash": "f8326ef"
         },
         "Personas_dati_Jur.bas": {
           "FileHash": "bf70e96",
           "OtherHash": "2624791",
-          "ExportDate": "2025-07-25T07:19:06.000Z",
+          "ExportDate": "2025-07-25T07:20:55.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "57b6b7f"
+          "FilePropertiesHash": "ac5f089"
         },
         "Prot_JaunaPers.bas": {
           "FileHash": "5e5cbce",
           "OtherHash": "c86a5c3",
-          "ExportDate": "2025-07-25T07:19:07.000Z",
+          "ExportDate": "2025-07-25T07:20:55.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "5165b4f"
+          "FilePropertiesHash": "75e172d"
         },
         "Rezervisti.bas": {
           "FileHash": "242c720",
           "OtherHash": "42e3589",
-          "ExportDate": "2025-07-25T07:19:06.000Z",
+          "ExportDate": "2025-07-25T07:20:55.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "b854e1b"
+          "FilePropertiesHash": "5f979a5"
         },
         "Rezervisti_jauns.bas": {
           "FileHash": "2c44000",
           "OtherHash": "606e052",
-          "ExportDate": "2025-07-25T07:19:07.000Z",
+          "ExportDate": "2025-07-25T07:20:55.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "f2e84e6"
+          "FilePropertiesHash": "bdeafbe"
         },
         "Rezervisti_PersRezerv.bas": {
           "FileHash": "7b30a05",
           "OtherHash": "38f9532",
-          "ExportDate": "2025-07-25T07:19:07.000Z",
+          "ExportDate": "2025-07-25T07:20:55.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "395b991"
+          "FilePropertiesHash": "79988b7"
         },
         "Rezervisti_Saraksts.bas": {
           "FileHash": "da8cafb",
           "OtherHash": "93ad6c8",
-          "ExportDate": "2025-07-25T07:19:07.000Z",
+          "ExportDate": "2025-07-25T07:20:55.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "3193c6e"
+          "FilePropertiesHash": "3519a99"
         },
         "Saraksts.bas": {
           "FileHash": "58086cb",
           "OtherHash": "fb5a682",
-          "ExportDate": "2025-07-25T07:19:06.000Z",
+          "ExportDate": "2025-07-25T07:20:55.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "dac13b5"
+          "FilePropertiesHash": "c2310d9"
         },
         "STL_kl_Adrese.bas": {
           "FileHash": "fc65be2",
           "OtherHash": "1318d5c",
-          "ExportDate": "2025-07-25T07:19:07.000Z",
+          "ExportDate": "2025-07-25T07:20:55.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "03b868e"
+          "FilePropertiesHash": "c1a9497"
         },
         "STL_kl_Valsts.bas": {
           "FileHash": "6f05642",
           "OtherHash": "61a1afd",
-          "ExportDate": "2025-07-25T07:19:07.000Z",
+          "ExportDate": "2025-07-25T07:20:55.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "46092ce"
+          "FilePropertiesHash": "5f2dc8b"
         },
         "STOP Ar Rokam subform.bas": {
           "FileHash": "d30e245",
           "OtherHash": "0f8160b",
-          "ExportDate": "2025-07-25T07:19:06.000Z",
+          "ExportDate": "2025-07-25T07:20:55.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "51d3b5d"
+          "FilePropertiesHash": "02dfd35"
         },
         "STOP.bas": {
           "FileHash": "9ae3482",
-          "ExportDate": "2025-07-25T07:19:06.000Z",
+          "ExportDate": "2025-07-25T07:20:55.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "a863c8e"
+          "FilePropertiesHash": "067fb8c"
         },
         "Valstis_Ligumos.bas": {
           "FileHash": "81bb9ee",
           "OtherHash": "71f48fe",
-          "ExportDate": "2025-07-25T07:19:06.000Z",
+          "ExportDate": "2025-07-25T07:20:54.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "c0a3445"
+          "FilePropertiesHash": "a5cc6a1"
         },
         "VIA_LigIst_Uzdatumu_LigInfo.bas": {
           "FileHash": "9c84a19",
           "OtherHash": "89c0245",
-          "ExportDate": "2025-07-25T07:19:07.000Z",
+          "ExportDate": "2025-07-25T07:20:55.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "89c4615"
+          "FilePropertiesHash": "f757a2b"
         },
         "VIA_LigIst_Uzdatumu_RezInfo_19.bas": {
           "FileHash": "599c7fe",
           "OtherHash": "a6ec149",
-          "ExportDate": "2025-07-25T07:19:07.000Z",
+          "ExportDate": "2025-07-25T07:20:55.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "8c8e7ad"
+          "FilePropertiesHash": "71556d7"
         },
         "VIA_VietuSkaitsUzdatumu.bas": {
           "FileHash": "0c10f23",
           "OtherHash": "9d34ba1",
-          "ExportDate": "2025-07-25T07:19:06.000Z",
+          "ExportDate": "2025-07-25T07:20:55.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "6214c59"
+          "FilePropertiesHash": "bf23988"
         },
         "VL_Komentari.bas": {
           "FileHash": "eae32c2",
           "OtherHash": "7296cae",
-          "ExportDate": "2025-07-25T07:19:06.000Z",
+          "ExportDate": "2025-07-25T07:20:54.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "bcda884"
+          "FilePropertiesHash": "5c90ee6"
         },
         "VL_Komentari_sub.bas": {
           "FileHash": "710e76c",
           "OtherHash": "af4b77d",
-          "ExportDate": "2025-07-25T07:19:06.000Z",
+          "ExportDate": "2025-07-25T07:20:55.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "cfeb8d8"
+          "FilePropertiesHash": "df7ba22"
         },
         "zdel VIA_LigIst_Uzdatumu_LigInfo.bas": {
           "FileHash": "76a4ef6",
           "OtherHash": "593aa4d",
-          "ExportDate": "2025-07-25T07:19:07.000Z",
+          "ExportDate": "2025-07-25T07:20:55.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "a65ea65"
+          "FilePropertiesHash": "414929a"
         },
         "zdel_KA_val.bas": {
           "FileHash": "43a98d9",
           "OtherHash": "76301e5",
-          "ExportDate": "2025-07-25T07:19:06.000Z",
+          "ExportDate": "2025-07-25T07:20:54.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "a8598c9"
+          "FilePropertiesHash": "9936cf3"
         },
         "zdel_LigumsViesn.bas": {
           "FileHash": "54f7e47",
           "OtherHash": "28766fc",
-          "ExportDate": "2025-07-25T07:19:05.000Z",
+          "ExportDate": "2025-07-25T07:20:54.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "3dad2bf"
+          "FilePropertiesHash": "4c3a394"
         },
         "ZN2L.bas": {
           "FileHash": "a7bba34",
           "OtherHash": "1960f98",
-          "ExportDate": "2025-07-25T07:19:05.000Z",
+          "ExportDate": "2025-07-25T07:20:54.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "7edd174"
+          "FilePropertiesHash": "9d0fab1"
         }
       },
       "Hidden Attributes": {
@@ -475,47 +475,47 @@
       "Macros": {
         "Autoexec.bas": {
           "FileHash": "bf52e2a",
-          "ExportDate": "2025-07-25T07:19:07.000Z",
+          "ExportDate": "2025-07-25T07:20:55.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "4fe8966"
+          "FilePropertiesHash": "b1b22ff"
         }
       },
       "Modules": {
         "Funkcijas.bas": {
           "FileHash": "3c6ec4f",
           "OtherHash": "dd985d4",
-          "ExportDate": "2025-07-25T07:18:55.000Z",
+          "ExportDate": "2025-07-25T07:20:44.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "3c68572"
+          "FilePropertiesHash": "b16e2f0"
         },
         "maksajumu termini.bas": {
           "FileHash": "34d66dc",
           "OtherHash": "e530a2c",
-          "ExportDate": "2025-07-25T07:18:55.000Z",
+          "ExportDate": "2025-07-25T07:20:43.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "8803986"
+          "FilePropertiesHash": "c2f8eb5"
         },
         "PersonasData.bas": {
           "FileHash": "d1efd61",
           "OtherHash": "d8ec8ab",
-          "ExportDate": "2025-07-25T07:18:55.000Z",
+          "ExportDate": "2025-07-25T07:20:43.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "a2ee5f1"
+          "FilePropertiesHash": "f5497fe"
         },
         "stop.bas": {
           "FileHash": "aec3cac",
           "OtherHash": "92ad67f",
-          "ExportDate": "2025-07-25T07:18:55.000Z",
+          "ExportDate": "2025-07-25T07:20:44.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "5610a61"
+          "FilePropertiesHash": "b4963c2"
         }
       },
       "Nav Pane Groups": {
         "nav-pane-groups.json": {
           "FileHash": "3d7555c",
-          "ExportDate": "2025-07-25T07:19:17.000Z",
+          "ExportDate": "2025-07-25T07:21:05.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "94ba259"
+          "FilePropertiesHash": "2b70475"
         }
       },
       "Proj Properties": {
@@ -525,1730 +525,1748 @@
       "Project": {
         "project.json": {
           "FileHash": "9244188",
-          "ExportDate": "2025-07-25T07:18:55.000Z",
+          "ExportDate": "2025-07-25T07:20:43.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "415a4c4"
+          "FilePropertiesHash": "b6c9bc2"
         }
       },
       "Queries": {
         "ApmaksasParadnieki_Stop.bas": {
           "FileHash": "b3b99d5",
-          "ExportDate": "2025-07-25T07:18:56.000Z",
+          "ExportDate": "2025-07-25T07:20:45.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "275e1e4"
+          "FilePropertiesHash": "a1c7ee6"
         },
         "ApmaksasParadnieki_Uzdatumu.bas": {
           "FileHash": "8c46b0e",
-          "ExportDate": "2025-07-25T07:18:56.000Z",
+          "ExportDate": "2025-07-25T07:20:45.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "7955d9e"
+          "FilePropertiesHash": "8807440"
         },
         "ApmaksasParadnieki_Uzdatumu_app.bas": {
           "FileHash": "93d37a4",
-          "ExportDate": "2025-07-25T07:18:56.000Z",
+          "ExportDate": "2025-07-25T07:20:45.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "63231a9"
+          "FilePropertiesHash": "6d4f111"
         },
         "Brivas istabas.bas": {
           "FileHash": "faeecd9",
-          "ExportDate": "2025-07-25T07:18:56.000Z",
+          "ExportDate": "2025-07-25T07:20:45.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "12c33d3"
+          "FilePropertiesHash": "5048247"
         },
         "Copy of VIA_LigIst_Stat_Inv_IKartes.bas": {
           "FileHash": "5d4bf3e",
-          "ExportDate": "2025-07-25T07:18:56.000Z",
+          "ExportDate": "2025-07-25T07:20:45.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "1e39da6"
+          "FilePropertiesHash": "732bcbd"
         },
         "Copy Of VIA_LigIstStat_All_LigReg.bas": {
           "FileHash": "d68a7fe",
-          "ExportDate": "2025-07-25T07:18:56.000Z",
+          "ExportDate": "2025-07-25T07:20:45.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "8ae32fa"
+          "FilePropertiesHash": "4d4451f"
         },
         "Copy Of VIA_LigIstStat_All_LigReg_UzDat.bas": {
           "FileHash": "551b3b6",
-          "ExportDate": "2025-07-25T07:18:56.000Z",
+          "ExportDate": "2025-07-25T07:20:45.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "541ef2b"
+          "FilePropertiesHash": "158f0dd"
         },
         "Copy2 Of VIA_LigIstStat_All_LigReg_UzDat.bas": {
           "FileHash": "ad56c7e",
-          "ExportDate": "2025-07-25T07:18:56.000Z",
+          "ExportDate": "2025-07-25T07:20:45.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "a7c411d"
+          "FilePropertiesHash": "abbb384"
         },
         "dbo_st_STOP_fp.bas": {
           "FileHash": "c64618d",
-          "ExportDate": "2025-07-25T07:18:56.000Z",
+          "ExportDate": "2025-07-25T07:20:45.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "6c8b1e1"
+          "FilePropertiesHash": "6313c60"
         },
         "IstPA_ApmaksasQuest.bas": {
           "FileHash": "46d7da2",
-          "ExportDate": "2025-07-25T07:18:57.000Z",
+          "ExportDate": "2025-07-25T07:20:45.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "5c94540"
+          "FilePropertiesHash": "7f0d4dd"
         },
         "IstPA_ApmaksasStavoklis.bas": {
           "FileHash": "7777d99",
-          "ExportDate": "2025-07-25T07:18:57.000Z",
+          "ExportDate": "2025-07-25T07:20:45.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "9792938"
+          "FilePropertiesHash": "df18127"
         },
         "IstPA_Samaksa.bas": {
           "FileHash": "5290493",
-          "ExportDate": "2025-07-25T07:18:57.000Z",
+          "ExportDate": "2025-07-25T07:20:45.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "8f39036"
+          "FilePropertiesHash": "87310e5"
         },
         "IstPA_Sar.bas": {
           "FileHash": "afb67ef",
-          "ExportDate": "2025-07-25T07:18:57.000Z",
+          "ExportDate": "2025-07-25T07:20:45.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "0ac1ce7"
+          "FilePropertiesHash": "a7feb2f"
         },
         "JTM_BridPazin.bas": {
           "FileHash": "cefd3f8",
-          "ExportDate": "2025-07-25T07:18:57.000Z",
+          "ExportDate": "2025-07-25T07:20:45.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "195835a"
+          "FilePropertiesHash": "c8c6e74"
         },
         "JTM_IeejasKartes.bas": {
           "FileHash": "0c74f53",
-          "ExportDate": "2025-07-25T07:18:57.000Z",
+          "ExportDate": "2025-07-25T07:20:45.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "d4d7c7a"
+          "FilePropertiesHash": "626c9d0"
         },
         "JTM_Lig_InvIst.bas": {
           "FileHash": "e214f25",
-          "ExportDate": "2025-07-25T07:18:57.000Z",
+          "ExportDate": "2025-07-25T07:20:46.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "03b49ca"
+          "FilePropertiesHash": "60279a7"
         },
         "JTM_Lig_InvSanem.bas": {
           "FileHash": "5414cad",
-          "ExportDate": "2025-07-25T07:18:57.000Z",
+          "ExportDate": "2025-07-25T07:20:46.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "559a654"
+          "FilePropertiesHash": "6208bb1"
         },
         "JTM_LIg_Maksajumi.bas": {
           "FileHash": "5aad9d2",
-          "ExportDate": "2025-07-25T07:18:57.000Z",
+          "ExportDate": "2025-07-25T07:20:46.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "892e58e"
+          "FilePropertiesHash": "6086806"
         },
         "KA_Autostavvietas_Karsu_Nr.bas": {
           "FileHash": "01779be",
-          "ExportDate": "2025-07-25T07:18:57.000Z",
+          "ExportDate": "2025-07-25T07:20:46.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "fe0a475"
+          "FilePropertiesHash": "3fe653f"
         },
         "KA_Caurlaides_sar.bas": {
           "FileHash": "deaf6a4",
-          "ExportDate": "2025-07-25T07:18:57.000Z",
+          "ExportDate": "2025-07-25T07:20:46.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "f102075"
+          "FilePropertiesHash": "36d1a56"
         },
         "KA_Kursanti.bas": {
           "FileHash": "c520e2d",
-          "ExportDate": "2025-07-25T07:18:57.000Z",
+          "ExportDate": "2025-07-25T07:20:46.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "32fb155"
+          "FilePropertiesHash": "4799b48"
         },
         "KA_ML_Atlauju_Pieprasijumi_lb_src.bas": {
           "FileHash": "ea650f1",
-          "ExportDate": "2025-07-25T07:18:57.000Z",
+          "ExportDate": "2025-07-25T07:20:46.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "ef77b2b"
+          "FilePropertiesHash": "4cd45d9"
         },
         "LigumaInfo.bas": {
           "FileHash": "9bb4d90",
-          "ExportDate": "2025-07-25T07:18:57.000Z",
+          "ExportDate": "2025-07-25T07:20:46.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "a11de9e"
+          "FilePropertiesHash": "e05deef"
         },
         "LigumaInfo_PEKonv.bas": {
           "FileHash": "6834b79",
-          "ExportDate": "2025-07-25T07:18:57.000Z",
+          "ExportDate": "2025-07-25T07:20:46.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "6dfe773"
+          "FilePropertiesHash": "bcc1e15"
         },
         "mkt_LigBezPID1_delRec.bas": {
           "FileHash": "d0109c1",
-          "ExportDate": "2025-07-25T07:18:57.000Z",
+          "ExportDate": "2025-07-25T07:20:46.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "08fe41c"
+          "FilePropertiesHash": "858b171"
         },
         "mkt_LigBezPID2.bas": {
           "FileHash": "46d1346",
-          "ExportDate": "2025-07-25T07:18:57.000Z",
+          "ExportDate": "2025-07-25T07:20:46.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "f405f18"
+          "FilePropertiesHash": "2f0a182"
         },
         "mkt_LigBezPID3.bas": {
           "FileHash": "07d69e5",
-          "ExportDate": "2025-07-25T07:18:57.000Z",
+          "ExportDate": "2025-07-25T07:20:46.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "27a8ae5"
+          "FilePropertiesHash": "51eda37"
         },
         "mkt_LigBezPID4.bas": {
           "FileHash": "2ad6d6a",
-          "ExportDate": "2025-07-25T07:18:57.000Z",
+          "ExportDate": "2025-07-25T07:20:46.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "89aefb2"
+          "FilePropertiesHash": "8fc1380"
         },
         "MZAkts.bas": {
           "FileHash": "882f06a",
-          "ExportDate": "2025-07-25T07:18:57.000Z",
+          "ExportDate": "2025-07-25T07:20:46.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "2c77d9f"
+          "FilePropertiesHash": "4a47a49"
         },
         "ParskatsIst_Maks.bas": {
           "FileHash": "78bf8d6",
-          "ExportDate": "2025-07-25T07:18:57.000Z",
+          "ExportDate": "2025-07-25T07:20:46.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "9398c27"
+          "FilePropertiesHash": "e02357b"
         },
         "ParskatsPaTipiem.bas": {
           "FileHash": "7c85dc4",
-          "ExportDate": "2025-07-25T07:18:57.000Z",
+          "ExportDate": "2025-07-25T07:20:46.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "ced0102"
+          "FilePropertiesHash": "c0bf966"
         },
         "ParskatsPaTT.bas": {
           "FileHash": "6240862",
-          "ExportDate": "2025-07-25T07:18:57.000Z",
+          "ExportDate": "2025-07-25T07:20:46.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "27d9fd9"
+          "FilePropertiesHash": "b423e26"
         },
         "ParskatsPaTT_Naktis_gr_1.bas": {
           "FileHash": "f1016de",
-          "ExportDate": "2025-07-25T07:18:57.000Z",
+          "ExportDate": "2025-07-25T07:20:46.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "9fd9e5e"
+          "FilePropertiesHash": "3e772ba"
         },
         "ParskatsPaTT_Summas.bas": {
           "FileHash": "616a73a",
-          "ExportDate": "2025-07-25T07:18:57.000Z",
+          "ExportDate": "2025-07-25T07:20:46.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "53de7b2"
+          "FilePropertiesHash": "82c38a0"
         },
         "ParskatsPaTT_Summas_gr.bas": {
           "FileHash": "ac3d1c2",
-          "ExportDate": "2025-07-25T07:18:58.000Z",
+          "ExportDate": "2025-07-25T07:20:46.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "f20a062"
+          "FilePropertiesHash": "96c493f"
         },
         "ParskatsPaValstim.bas": {
           "FileHash": "8081c7d",
-          "ExportDate": "2025-07-25T07:18:58.000Z",
+          "ExportDate": "2025-07-25T07:20:46.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "fa93b15"
+          "FilePropertiesHash": "01780a6"
         },
         "ParskatsPaValstim_gr_1.bas": {
           "FileHash": "2d95130",
-          "ExportDate": "2025-07-25T07:18:58.000Z",
+          "ExportDate": "2025-07-25T07:20:46.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "ecaf8b6"
+          "FilePropertiesHash": "d7139b3"
         },
         "ParskatsPaValstim_gr_2.bas": {
           "FileHash": "deb68d3",
-          "ExportDate": "2025-07-25T07:18:58.000Z",
+          "ExportDate": "2025-07-25T07:20:46.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "41e2303"
+          "FilePropertiesHash": "490a9fd"
         },
         "ParskatsPaValstim_Naktis_gr_1.bas": {
           "FileHash": "fc6bb79",
-          "ExportDate": "2025-07-25T07:18:58.000Z",
+          "ExportDate": "2025-07-25T07:20:46.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "37ac73f"
+          "FilePropertiesHash": "2ddd491"
         },
         "ParskatsPaValstim_Pers_gr_1.bas": {
           "FileHash": "d9b3ec9",
-          "ExportDate": "2025-07-25T07:18:58.000Z",
+          "ExportDate": "2025-07-25T07:20:46.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "8e38292"
+          "FilePropertiesHash": "bc1d13f"
         },
         "ParskatsPaValstim_Pers_gr_2.bas": {
           "FileHash": "c7dedab",
-          "ExportDate": "2025-07-25T07:18:58.000Z",
+          "ExportDate": "2025-07-25T07:20:46.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "2dc1ca3"
+          "FilePropertiesHash": "fb0b02f"
         },
         "ParskatsPaValstim_Pers_gr_3.bas": {
           "FileHash": "59bcfef",
-          "ExportDate": "2025-07-25T07:18:58.000Z",
+          "ExportDate": "2025-07-25T07:20:46.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "0f9aaa3"
+          "FilePropertiesHash": "055dbc1"
         },
         "ParskatsPaValstim_Valstis_gr.bas": {
           "FileHash": "898d570",
-          "ExportDate": "2025-07-25T07:18:58.000Z",
+          "ExportDate": "2025-07-25T07:20:46.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "4658cd1"
+          "FilePropertiesHash": "88d00c8"
         },
         "qryBrivasVietas.bas": {
           "FileHash": "70de5e5",
-          "ExportDate": "2025-07-25T07:18:58.000Z",
+          "ExportDate": "2025-07-25T07:20:47.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "a3f5e81"
+          "FilePropertiesHash": "36402e5"
         },
         "qryBrivasVietas_MG_sar.bas": {
           "FileHash": "70456a1",
-          "ExportDate": "2025-07-25T07:18:58.000Z",
+          "ExportDate": "2025-07-25T07:20:47.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "90509f4"
+          "FilePropertiesHash": "e297191"
         },
         "qryBrivasVietas_Sar.bas": {
           "FileHash": "41edd7c",
-          "ExportDate": "2025-07-25T07:18:58.000Z",
+          "ExportDate": "2025-07-25T07:20:47.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "c6e561b"
+          "FilePropertiesHash": "a787456"
         },
         "qryBrivasVietas_Sar_R.bas": {
           "FileHash": "6aed8ff",
-          "ExportDate": "2025-07-25T07:18:58.000Z",
+          "ExportDate": "2025-07-25T07:20:47.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "739ec57"
+          "FilePropertiesHash": "3ac2331"
         },
         "qryBrivasVietas_sar_R_13.bas": {
           "FileHash": "bed2bd6",
-          "ExportDate": "2025-07-25T07:18:58.000Z",
+          "ExportDate": "2025-07-25T07:20:47.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "356edac"
+          "FilePropertiesHash": "1726f83"
         },
         "qryBrivasVietas_sar_R_14.bas": {
           "FileHash": "d4d98da",
-          "ExportDate": "2025-07-25T07:18:58.000Z",
+          "ExportDate": "2025-07-25T07:20:47.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "705a9f2"
+          "FilePropertiesHash": "1e4b4fc"
         },
         "qryBrivasVietas_sar_R_15.bas": {
           "FileHash": "874df26",
-          "ExportDate": "2025-07-25T07:18:58.000Z",
+          "ExportDate": "2025-07-25T07:20:47.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "9717922"
+          "FilePropertiesHash": "19befe0"
         },
         "qryBrivasVietas_sar_R_16.bas": {
           "FileHash": "303c109",
-          "ExportDate": "2025-07-25T07:18:58.000Z",
+          "ExportDate": "2025-07-25T07:20:47.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "0d75770"
+          "FilePropertiesHash": "0b7edd4"
         },
         "qryBrivasVietas_sar_R_17.bas": {
           "FileHash": "223e6af",
-          "ExportDate": "2025-07-25T07:18:58.000Z",
+          "ExportDate": "2025-07-25T07:20:47.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "fb4302a"
+          "FilePropertiesHash": "654b876"
         },
         "qryBrivasVietas_sar_R_18.bas": {
           "FileHash": "1be9089",
-          "ExportDate": "2025-07-25T07:18:58.000Z",
+          "ExportDate": "2025-07-25T07:20:47.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "9f61e79"
+          "FilePropertiesHash": "bee7f12"
         },
         "qryBrivasVietas_sar_R_19.bas": {
           "FileHash": "feff419",
-          "ExportDate": "2025-07-25T07:18:59.000Z",
+          "ExportDate": "2025-07-25T07:20:47.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "260712b"
+          "FilePropertiesHash": "4328069"
         },
         "qryBrivasVietas_sar_R_19_nenosl.bas": {
           "FileHash": "5e523a1",
-          "ExportDate": "2025-07-25T07:18:59.000Z",
+          "ExportDate": "2025-07-25T07:20:47.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "59d2a37"
+          "FilePropertiesHash": "6b43ada"
         },
         "qryBrivasVietas_sar_R_20.bas": {
           "FileHash": "dec809a",
-          "ExportDate": "2025-07-25T07:18:59.000Z",
+          "ExportDate": "2025-07-25T07:20:48.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "2a4b807"
+          "FilePropertiesHash": "e0fd616"
         },
         "qryBrivasVietas_sar_R_21.bas": {
           "FileHash": "498a1fc",
-          "ExportDate": "2025-07-25T07:18:59.000Z",
+          "ExportDate": "2025-07-25T07:20:48.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "8e9733b"
+          "FilePropertiesHash": "08e0cff"
         },
         "qryBrivasVietas_sar_R_22.bas": {
           "FileHash": "32050a8",
-          "ExportDate": "2025-07-25T07:18:59.000Z",
+          "ExportDate": "2025-07-25T07:20:48.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "8e9733b"
+          "FilePropertiesHash": "08e0cff"
         },
         "qryBrivasVietas_sar_R_23.bas": {
           "FileHash": "051ba49",
-          "ExportDate": "2025-07-25T07:18:59.000Z",
+          "ExportDate": "2025-07-25T07:20:48.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "ba9b7a4"
+          "FilePropertiesHash": "80c2a8c"
         },
         "qryBrivasVietas_sar_R_24.bas": {
           "FileHash": "52c093e",
-          "ExportDate": "2025-07-25T07:18:59.000Z",
+          "ExportDate": "2025-07-25T07:20:48.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "8c50302"
+          "FilePropertiesHash": "d269285"
         },
         "qryBrivasVietasAiznVSk.bas": {
           "FileHash": "56c2e50",
-          "ExportDate": "2025-07-25T07:18:59.000Z",
+          "ExportDate": "2025-07-25T07:20:48.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "8f15ca6"
+          "FilePropertiesHash": "edfe65a"
         },
         "qryBrivasVietasAiznVSk_13.bas": {
           "FileHash": "1c3178d",
-          "ExportDate": "2025-07-25T07:18:59.000Z",
+          "ExportDate": "2025-07-25T07:20:48.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "42c1758"
+          "FilePropertiesHash": "dfec9be"
         },
         "qryBrivasVietasAiznVSk_14.bas": {
           "FileHash": "97ab96d",
-          "ExportDate": "2025-07-25T07:18:59.000Z",
+          "ExportDate": "2025-07-25T07:20:48.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "9db8ad7"
+          "FilePropertiesHash": "267b2ff"
         },
         "qryBrivasVietasAiznVSk_15.bas": {
           "FileHash": "6d0aa01",
-          "ExportDate": "2025-07-25T07:18:59.000Z",
+          "ExportDate": "2025-07-25T07:20:48.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "42c1758"
+          "FilePropertiesHash": "dfec9be"
         },
         "qryBrivasVietasAiznVSk_16.bas": {
           "FileHash": "3613525",
-          "ExportDate": "2025-07-25T07:18:59.000Z",
+          "ExportDate": "2025-07-25T07:20:48.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "010c2a8"
+          "FilePropertiesHash": "f655431"
         },
         "qryBrivasVietasAiznVSk_17.bas": {
           "FileHash": "1ff0e45",
-          "ExportDate": "2025-07-25T07:18:59.000Z",
+          "ExportDate": "2025-07-25T07:20:48.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "010c2a8"
+          "FilePropertiesHash": "f655431"
         },
         "qryBrivasVietasAiznVSk_18.bas": {
           "FileHash": "933a9b1",
-          "ExportDate": "2025-07-25T07:18:59.000Z",
+          "ExportDate": "2025-07-25T07:20:48.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "106636f"
+          "FilePropertiesHash": "1e94893"
         },
         "qryBrivasVietasAiznVSk_19.bas": {
           "FileHash": "3bf817d",
-          "ExportDate": "2025-07-25T07:18:59.000Z",
+          "ExportDate": "2025-07-25T07:20:48.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "106636f"
+          "FilePropertiesHash": "1e94893"
         },
         "qryBrivasVietasAiznVSk_20.bas": {
           "FileHash": "8087226",
-          "ExportDate": "2025-07-25T07:18:59.000Z",
+          "ExportDate": "2025-07-25T07:20:48.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "d1ba021"
+          "FilePropertiesHash": "cf0be63"
         },
         "qryBrivasVietasAiznVSk_21.bas": {
           "FileHash": "4a4d33c",
-          "ExportDate": "2025-07-25T07:19:00.000Z",
+          "ExportDate": "2025-07-25T07:20:48.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "47c24ff"
+          "FilePropertiesHash": "9aa95dd"
         },
         "qryBrivasVietasAiznVSk_22.bas": {
           "FileHash": "cf0b579",
-          "ExportDate": "2025-07-25T07:19:00.000Z",
+          "ExportDate": "2025-07-25T07:20:48.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "d20c6fa"
+          "FilePropertiesHash": "9aa95dd"
         },
         "qryBrivasVietasAiznVSk_23.bas": {
           "FileHash": "768fefd",
-          "ExportDate": "2025-07-25T07:19:00.000Z",
+          "ExportDate": "2025-07-25T07:20:48.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "d20c6fa"
+          "FilePropertiesHash": "9aa95dd"
         },
         "qryBrivasVietasAiznVSk_24.bas": {
           "FileHash": "a667a4f",
-          "ExportDate": "2025-07-25T07:19:00.000Z",
+          "ExportDate": "2025-07-25T07:20:48.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "d20c6fa"
+          "FilePropertiesHash": "9aa95dd"
         },
         "qryBrivasVietasRez.bas": {
           "FileHash": "a32de0d",
-          "ExportDate": "2025-07-25T07:19:00.000Z",
+          "ExportDate": "2025-07-25T07:20:48.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "0e9ccc6"
+          "FilePropertiesHash": "fae950f"
         },
         "qryBrivasVietasRez_R.bas": {
           "FileHash": "a13f254",
-          "ExportDate": "2025-07-25T07:19:00.000Z",
+          "ExportDate": "2025-07-25T07:20:48.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "f53ed56"
+          "FilePropertiesHash": "bf8e58d"
         },
         "qryBrivasVietasValstis_Sar.bas": {
           "FileHash": "f20abac",
-          "ExportDate": "2025-07-25T07:19:00.000Z",
+          "ExportDate": "2025-07-25T07:20:48.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "f094179"
+          "FilePropertiesHash": "61936f9"
         },
         "qryBrivasVietasValstis_Sar_13.bas": {
           "FileHash": "3e0027f",
-          "ExportDate": "2025-07-25T07:19:00.000Z",
+          "ExportDate": "2025-07-25T07:20:49.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "aa87ee4"
+          "FilePropertiesHash": "1b5f0c7"
         },
         "qryBrivasVietasValstis_Sar_14.bas": {
           "FileHash": "2968e37",
-          "ExportDate": "2025-07-25T07:19:00.000Z",
+          "ExportDate": "2025-07-25T07:20:49.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "adf02ac"
+          "FilePropertiesHash": "db184de"
         },
         "qryBrivasVietasValstis_Sar_15.bas": {
           "FileHash": "0451d1f",
-          "ExportDate": "2025-07-25T07:19:00.000Z",
+          "ExportDate": "2025-07-25T07:20:49.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "1a78610"
+          "FilePropertiesHash": "7a1a881"
         },
         "qryBrivasVietasValstis_Sar_16.bas": {
           "FileHash": "3298b30",
-          "ExportDate": "2025-07-25T07:19:00.000Z",
+          "ExportDate": "2025-07-25T07:20:49.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "1a78610"
+          "FilePropertiesHash": "7a1a881"
         },
         "qryBrivasVietasValstis_Sar_17.bas": {
           "FileHash": "e6d2015",
-          "ExportDate": "2025-07-25T07:19:00.000Z",
+          "ExportDate": "2025-07-25T07:20:49.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "1279d44"
+          "FilePropertiesHash": "49a5e32"
         },
         "qryBrivasVietasValstis_Sar_18.bas": {
           "FileHash": "99fc629",
-          "ExportDate": "2025-07-25T07:19:00.000Z",
+          "ExportDate": "2025-07-25T07:20:49.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "396650a"
+          "FilePropertiesHash": "e560727"
         },
         "qryBrivasVietasValstis_Sar_19.bas": {
           "FileHash": "020bec9",
-          "ExportDate": "2025-07-25T07:19:00.000Z",
+          "ExportDate": "2025-07-25T07:20:49.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "396650a"
+          "FilePropertiesHash": "e560727"
         },
         "qryBrivasVietasValstis_Sar_20.bas": {
           "FileHash": "43ce7b9",
-          "ExportDate": "2025-07-25T07:19:00.000Z",
+          "ExportDate": "2025-07-25T07:20:49.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "baeb6d2"
+          "FilePropertiesHash": "edca800"
         },
         "qryBrivasVietasValstis_Sar_21.bas": {
           "FileHash": "b55544f",
-          "ExportDate": "2025-07-25T07:19:00.000Z",
+          "ExportDate": "2025-07-25T07:20:49.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "0e69e0b"
+          "FilePropertiesHash": "c5282c5"
         },
         "qryBrivasVietasValstis_Sar_22.bas": {
           "FileHash": "3f49544",
-          "ExportDate": "2025-07-25T07:19:00.000Z",
+          "ExportDate": "2025-07-25T07:20:49.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "0e69e0b"
+          "FilePropertiesHash": "c5282c5"
         },
         "qryBrivasVietasValstis_Sar_23.bas": {
           "FileHash": "fb32a5d",
-          "ExportDate": "2025-07-25T07:19:00.000Z",
+          "ExportDate": "2025-07-25T07:20:49.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "0e69e0b"
+          "FilePropertiesHash": "c5282c5"
         },
         "qryBrivasVietasValstis_Sar_24.bas": {
           "FileHash": "500ae4c",
-          "ExportDate": "2025-07-25T07:19:00.000Z",
+          "ExportDate": "2025-07-25T07:20:49.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "0e69e0b"
+          "FilePropertiesHash": "c5282c5"
         },
         "qryRez_dzestie.bas": {
           "FileHash": "ea87c8c",
-          "ExportDate": "2025-07-25T07:19:01.000Z",
+          "ExportDate": "2025-07-25T07:20:49.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "d9bf51b"
+          "FilePropertiesHash": "f8aea2b"
         },
         "qryRezerv.bas": {
           "FileHash": "ba7c7cb",
-          "ExportDate": "2025-07-25T07:19:01.000Z",
+          "ExportDate": "2025-07-25T07:20:49.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "a787789"
+          "FilePropertiesHash": "7221d1f"
         },
         "qryRezerv_pers.bas": {
           "FileHash": "066da13",
-          "ExportDate": "2025-07-25T07:19:01.000Z",
+          "ExportDate": "2025-07-25T07:20:49.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "78617d9"
+          "FilePropertiesHash": "92960b4"
         },
         "qrySTOP.bas": {
           "FileHash": "532c60a",
-          "ExportDate": "2025-07-25T07:19:01.000Z",
+          "ExportDate": "2025-07-25T07:20:49.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "807eaa2"
+          "FilePropertiesHash": "56a5c47"
         },
         "qryVietas_istabas.bas": {
           "FileHash": "d2cfd1f",
-          "ExportDate": "2025-07-25T07:19:01.000Z",
+          "ExportDate": "2025-07-25T07:20:50.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "9738dc7"
+          "FilePropertiesHash": "63f90a9"
         },
         "rez_Darbin.bas": {
           "FileHash": "11bec32",
-          "ExportDate": "2025-07-25T07:19:01.000Z",
+          "ExportDate": "2025-07-25T07:20:50.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "fe6218e"
+          "FilePropertiesHash": "229eede"
         },
         "rez_IrIstaba.bas": {
           "FileHash": "68a26a4",
-          "ExportDate": "2025-07-25T07:19:01.000Z",
+          "ExportDate": "2025-07-25T07:20:50.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "457f188"
+          "FilePropertiesHash": "4feb200"
         },
         "rez_IrLigIst.bas": {
           "FileHash": "6949a51",
-          "ExportDate": "2025-07-25T07:19:01.000Z",
+          "ExportDate": "2025-07-25T07:20:50.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "49ab4c9"
+          "FilePropertiesHash": "962824b"
         },
         "rez_IrLigIst_PID.bas": {
           "FileHash": "5ab1b33",
-          "ExportDate": "2025-07-25T07:19:01.000Z",
+          "ExportDate": "2025-07-25T07:20:50.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "25d248e"
+          "FilePropertiesHash": "035fcf8"
         },
         "rez_IrLigums.bas": {
           "FileHash": "fdde7b8",
-          "ExportDate": "2025-07-25T07:19:01.000Z",
+          "ExportDate": "2025-07-25T07:20:50.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "db01d62"
+          "FilePropertiesHash": "54ca7cc"
         },
         "rez_irPIDLastMG.bas": {
           "FileHash": "57eda4e",
-          "ExportDate": "2025-07-25T07:19:01.000Z",
+          "ExportDate": "2025-07-25T07:20:50.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "d6661f4"
+          "FilePropertiesHash": "22e9b16"
         },
         "Rez_StudMekl.bas": {
           "FileHash": "75753b7",
-          "ExportDate": "2025-07-25T07:19:01.000Z",
+          "ExportDate": "2025-07-25T07:20:50.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "5c4ec9b"
+          "FilePropertiesHash": "f6a4848"
         },
         "Rezerv_StudStat.bas": {
           "FileHash": "7e2719a",
-          "ExportDate": "2025-07-25T07:19:01.000Z",
+          "ExportDate": "2025-07-25T07:20:50.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "d3f7a23"
+          "FilePropertiesHash": "e4253c3"
         },
         "Rezerv_StudStat_gr.bas": {
           "FileHash": "64286d8",
-          "ExportDate": "2025-07-25T07:19:01.000Z",
+          "ExportDate": "2025-07-25T07:20:50.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "6e4fb9a"
+          "FilePropertiesHash": "650ebca"
         },
         "Rezervisti_13.bas": {
           "FileHash": "92cc150",
-          "ExportDate": "2025-07-25T07:19:01.000Z",
+          "ExportDate": "2025-07-25T07:20:50.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "86e9271"
+          "FilePropertiesHash": "a7aca30"
         },
         "Rezervisti_14.bas": {
           "FileHash": "ad4ae5f",
-          "ExportDate": "2025-07-25T07:19:01.000Z",
+          "ExportDate": "2025-07-25T07:20:50.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "3c52b28"
+          "FilePropertiesHash": "6c456ab"
         },
         "Rezervisti_15.bas": {
           "FileHash": "41e67bf",
-          "ExportDate": "2025-07-25T07:19:01.000Z",
+          "ExportDate": "2025-07-25T07:20:50.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "86e9271"
+          "FilePropertiesHash": "a7aca30"
         },
         "Rezervisti_16.bas": {
           "FileHash": "2d11676",
-          "ExportDate": "2025-07-25T07:19:01.000Z",
+          "ExportDate": "2025-07-25T07:20:50.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "86e9271"
+          "FilePropertiesHash": "a7aca30"
         },
         "Rezervisti_17.bas": {
           "FileHash": "1af6242",
-          "ExportDate": "2025-07-25T07:19:01.000Z",
+          "ExportDate": "2025-07-25T07:20:50.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "86e9271"
+          "FilePropertiesHash": "a7aca30"
         },
         "Rezervisti_18.bas": {
           "FileHash": "f811f54",
-          "ExportDate": "2025-07-25T07:19:01.000Z",
+          "ExportDate": "2025-07-25T07:20:50.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "6f2579f"
+          "FilePropertiesHash": "80d8128"
         },
         "Rezervisti_19.bas": {
           "FileHash": "9d778d4",
-          "ExportDate": "2025-07-25T07:19:01.000Z",
+          "ExportDate": "2025-07-25T07:20:50.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "56be987"
+          "FilePropertiesHash": "c1c397d"
         },
         "Rezervisti_19_nenosl.bas": {
           "FileHash": "c604063",
-          "ExportDate": "2025-07-25T07:19:01.000Z",
+          "ExportDate": "2025-07-25T07:20:50.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "4ef2a8b"
+          "FilePropertiesHash": "d033098"
         },
         "Rezervisti_20.bas": {
           "FileHash": "bc387ad",
-          "ExportDate": "2025-07-25T07:19:01.000Z",
+          "ExportDate": "2025-07-25T07:20:50.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "56be987"
+          "FilePropertiesHash": "c1c397d"
         },
         "Rezervisti_21.bas": {
           "FileHash": "c19bb38",
-          "ExportDate": "2025-07-25T07:19:01.000Z",
+          "ExportDate": "2025-07-25T07:20:50.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "6f2579f"
+          "FilePropertiesHash": "80d8128"
         },
         "Rezervisti_22.bas": {
           "FileHash": "aea68ca",
-          "ExportDate": "2025-07-25T07:19:02.000Z",
+          "ExportDate": "2025-07-25T07:20:50.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "56be987"
+          "FilePropertiesHash": "c1c397d"
         },
         "Rezervisti_23.bas": {
           "FileHash": "dba4ff0",
-          "ExportDate": "2025-07-25T07:19:02.000Z",
+          "ExportDate": "2025-07-25T07:20:50.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "41be401"
+          "FilePropertiesHash": "c1c397d"
         },
         "Rezervisti_24.bas": {
           "FileHash": "d744ea6",
-          "ExportDate": "2025-07-25T07:19:02.000Z",
+          "ExportDate": "2025-07-25T07:20:50.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "335507e"
+          "FilePropertiesHash": "80d8128"
         },
         "stl_PersLigData.bas": {
           "FileHash": "e14eaad",
-          "ExportDate": "2025-07-25T07:19:02.000Z",
+          "ExportDate": "2025-07-25T07:20:50.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "7f0eb09"
+          "FilePropertiesHash": "427504f"
         },
         "StStat_iss2.bas": {
           "FileHash": "dd6e837",
-          "ExportDate": "2025-07-25T07:19:02.000Z",
+          "ExportDate": "2025-07-25T07:20:50.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "4978332"
+          "FilePropertiesHash": "6a9e7c4"
         },
         "StStat_MinStat.bas": {
           "FileHash": "56c1e99",
-          "ExportDate": "2025-07-25T07:19:02.000Z",
+          "ExportDate": "2025-07-25T07:20:50.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "8b62ac6"
+          "FilePropertiesHash": "c5f3fce"
         },
         "StStat_MinStudStat2.bas": {
           "FileHash": "6fb5e07",
-          "ExportDate": "2025-07-25T07:19:02.000Z",
+          "ExportDate": "2025-07-25T07:20:50.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "353b5b5"
+          "FilePropertiesHash": "0cc10c5"
         },
         "StudStat_kodi.bas": {
           "FileHash": "7f018eb",
-          "ExportDate": "2025-07-25T07:19:02.000Z",
+          "ExportDate": "2025-07-25T07:20:50.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "33f6b88"
+          "FilePropertiesHash": "9573b72"
         },
         "TN_saraksts.bas": {
           "FileHash": "992294f",
-          "ExportDate": "2025-07-25T07:19:02.000Z",
+          "ExportDate": "2025-07-25T07:20:51.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "d791d32"
+          "FilePropertiesHash": "bc278fb"
         },
         "Valstis_Ligumos.bas": {
           "FileHash": "cee93e7",
-          "ExportDate": "2025-07-25T07:19:02.000Z",
+          "ExportDate": "2025-07-25T07:20:51.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "65884de"
+          "FilePropertiesHash": "727c494"
         },
         "VIA_Ist_vsk_Uzdatumu.bas": {
           "FileHash": "04a95ac",
-          "ExportDate": "2025-07-25T07:19:02.000Z",
+          "ExportDate": "2025-07-25T07:20:51.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "be8961e"
+          "FilePropertiesHash": "660b18e"
         },
         "VIA_Ist_vsk_Uzdatumu_sar.bas": {
           "FileHash": "469d2e2",
-          "ExportDate": "2025-07-25T07:19:02.000Z",
+          "ExportDate": "2025-07-25T07:20:51.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "c3a0016"
+          "FilePropertiesHash": "e78bc3a"
         },
         "VIA_Istabas.bas": {
           "FileHash": "9656ccd",
-          "ExportDate": "2025-07-25T07:19:02.000Z",
+          "ExportDate": "2025-07-25T07:20:51.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "46408d7"
+          "FilePropertiesHash": "ae0061c"
         },
         "VIA_IstAizn_vsk_Uzdatumu.bas": {
           "FileHash": "90da4f9",
-          "ExportDate": "2025-07-25T07:19:02.000Z",
+          "ExportDate": "2025-07-25T07:20:51.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "ce66986"
+          "FilePropertiesHash": "9d6b2bf"
         },
         "VIA_LigApm_Sam_ParadsLig.bas": {
           "FileHash": "75dc423",
-          "ExportDate": "2025-07-25T07:19:02.000Z",
+          "ExportDate": "2025-07-25T07:20:51.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "4603cbb"
+          "FilePropertiesHash": "512db27"
         },
         "VIA_LigApm_Sam_ParadsPers.bas": {
           "FileHash": "80f2d24",
-          "ExportDate": "2025-07-25T07:19:02.000Z",
+          "ExportDate": "2025-07-25T07:20:51.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "3fade03"
+          "FilePropertiesHash": "0b6e4f4"
         },
         "VIA_LigApm_Sam_Peddatums.bas": {
           "FileHash": "62ece33",
-          "ExportDate": "2025-07-25T07:19:03.000Z",
+          "ExportDate": "2025-07-25T07:20:51.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "e721703"
+          "FilePropertiesHash": "623fe1c"
         },
         "VIA_LigIst_Stat_Inv_IKartes.bas": {
           "FileHash": "43aae0c",
-          "ExportDate": "2025-07-25T07:19:03.000Z",
+          "ExportDate": "2025-07-25T07:20:51.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "db07412"
+          "FilePropertiesHash": "6c0085c"
         },
         "VIA_LigIst_Stat_Inv_IKartes_gr.bas": {
           "FileHash": "e77aaca",
-          "ExportDate": "2025-07-25T07:19:03.000Z",
+          "ExportDate": "2025-07-25T07:20:51.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "0b80df7"
+          "FilePropertiesHash": "bf8cb24"
         },
         "VIA_LigIst_Uzdatumu_LigInfo.bas": {
           "FileHash": "f894f35",
-          "ExportDate": "2025-07-25T07:19:03.000Z",
+          "ExportDate": "2025-07-25T07:20:51.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "3441129"
+          "FilePropertiesHash": "5fb3e67"
         },
         "VIA_LigIst_Uzdatumu_RezInfo_19.bas": {
           "FileHash": "894951b",
-          "ExportDate": "2025-07-25T07:19:03.000Z",
+          "ExportDate": "2025-07-25T07:20:51.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "24a1ffa"
+          "FilePropertiesHash": "81e94f3"
         },
         "VIA_LigIstAizn_Dat.bas": {
           "FileHash": "deb5011",
-          "ExportDate": "2025-07-25T07:19:03.000Z",
+          "ExportDate": "2025-07-25T07:20:51.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "cc1f7df"
+          "FilePropertiesHash": "f1ba64d"
         },
         "VIA_LigIstAizn_Dat_data.bas": {
           "FileHash": "32b45dd",
-          "ExportDate": "2025-07-25T07:19:03.000Z",
+          "ExportDate": "2025-07-25T07:20:51.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "c6f05da"
+          "FilePropertiesHash": "780938e"
         },
         "VIA_LigIstAizn_Dat_IstLigSk.bas": {
           "FileHash": "7dce391",
-          "ExportDate": "2025-07-25T07:19:03.000Z",
+          "ExportDate": "2025-07-25T07:20:51.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "c5f1087"
+          "FilePropertiesHash": "3f7a468"
         },
         "VIA_LigIstAizn_Uzdatumu.bas": {
           "FileHash": "4ee7fca",
-          "ExportDate": "2025-07-25T07:19:03.000Z",
+          "ExportDate": "2025-07-25T07:20:51.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "bc01e9d"
+          "FilePropertiesHash": "b1d2a52"
         },
         "VIA_LigIstApm_Dat_data.bas": {
           "FileHash": "45d6254",
-          "ExportDate": "2025-07-25T07:19:03.000Z",
+          "ExportDate": "2025-07-25T07:20:52.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "883a0aa"
+          "FilePropertiesHash": "abdba97"
         },
         "VIA_LigIstApm_PecDat.bas": {
           "FileHash": "698e972",
-          "ExportDate": "2025-07-25T07:19:03.000Z",
+          "ExportDate": "2025-07-25T07:20:52.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "d1c8376"
+          "FilePropertiesHash": "0d712f9"
         },
         "VIA_LigIstApm_PecDat_data.bas": {
           "FileHash": "a7e5a30",
-          "ExportDate": "2025-07-25T07:19:03.000Z",
+          "ExportDate": "2025-07-25T07:20:52.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "3d97bbf"
+          "FilePropertiesHash": "312985f"
         },
         "VIA_LigIstApm_PedDat.bas": {
           "FileHash": "832f35b",
-          "ExportDate": "2025-07-25T07:19:03.000Z",
+          "ExportDate": "2025-07-25T07:20:52.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "e77a5fd"
+          "FilePropertiesHash": "07ef977"
         },
         "VIA_LigIstApm_Peddatums.bas": {
           "FileHash": "eeb356e",
-          "ExportDate": "2025-07-25T07:19:03.000Z",
+          "ExportDate": "2025-07-25T07:20:52.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "aa8ed7d"
+          "FilePropertiesHash": "2e60365"
         },
         "VIA_LigIstApm_PirmsDat.bas": {
           "FileHash": "beba540",
-          "ExportDate": "2025-07-25T07:19:03.000Z",
+          "ExportDate": "2025-07-25T07:20:52.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "bf0413c"
+          "FilePropertiesHash": "58d3c10"
         },
         "VIA_LigIstApm_PirmsDat_data.bas": {
           "FileHash": "5bf1531",
-          "ExportDate": "2025-07-25T07:19:03.000Z",
+          "ExportDate": "2025-07-25T07:20:52.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "e4226c5"
+          "FilePropertiesHash": "3fe9a3b"
         },
         "VIA_LigIstApm_Sam_Peddatums.bas": {
           "FileHash": "486505a",
-          "ExportDate": "2025-07-25T07:19:03.000Z",
+          "ExportDate": "2025-07-25T07:20:52.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "914c222"
+          "FilePropertiesHash": "c04dd75"
         },
         "VIA_LigIstApm_Uzdatumu.bas": {
           "FileHash": "6070f43",
-          "ExportDate": "2025-07-25T07:19:03.000Z",
+          "ExportDate": "2025-07-25T07:20:52.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "4fb1c62"
+          "FilePropertiesHash": "ca55294"
         },
         "VIA_LigIstApmAizn_Dat_data.bas": {
           "FileHash": "dce18cc",
-          "ExportDate": "2025-07-25T07:19:03.000Z",
+          "ExportDate": "2025-07-25T07:20:52.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "101c160"
+          "FilePropertiesHash": "eec6217"
         },
         "VIA_LigIstApmAiznSamaksats_Dat_data.bas": {
           "FileHash": "37e8489",
-          "ExportDate": "2025-07-25T07:19:03.000Z",
+          "ExportDate": "2025-07-25T07:20:52.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "7597e65"
+          "FilePropertiesHash": "3cdd724"
         },
         "VIA_LigIstIrLig_Uzdatumu.bas": {
           "FileHash": "65d8556",
-          "ExportDate": "2025-07-25T07:19:03.000Z",
+          "ExportDate": "2025-07-25T07:20:52.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "99beaf5"
+          "FilePropertiesHash": "8ab25b7"
         },
         "VIA_LigIstIrLig_Uzdatumu_Summas.bas": {
           "FileHash": "3f79ff6",
-          "ExportDate": "2025-07-25T07:19:03.000Z",
+          "ExportDate": "2025-07-25T07:20:52.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "66f1f15"
+          "FilePropertiesHash": "2aace86"
         },
         "VIA_LigIstIrLig_Uzdatumu_Summas_gr.bas": {
           "FileHash": "44ef66d",
-          "ExportDate": "2025-07-25T07:19:03.000Z",
+          "ExportDate": "2025-07-25T07:20:52.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "70e2c56"
+          "FilePropertiesHash": "5fcd421"
         },
         "VIA_LigIstIrLig_Uzdatumu_Summas_gr2.bas": {
           "FileHash": "e536cca",
-          "ExportDate": "2025-07-25T07:19:03.000Z",
+          "ExportDate": "2025-07-25T07:20:52.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "d346073"
+          "FilePropertiesHash": "0c23938"
         },
         "VIA_LigIstIrLig_Uzdatumu_Summas_gr3.bas": {
           "FileHash": "5cc27ba",
-          "ExportDate": "2025-07-25T07:19:03.000Z",
+          "ExportDate": "2025-07-25T07:20:52.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "eae8bb3"
+          "FilePropertiesHash": "1d591c3"
         },
         "VIA_LigIstStat_All_LigReg.bas": {
           "FileHash": "bc48cd3",
-          "ExportDate": "2025-07-25T07:19:03.000Z",
+          "ExportDate": "2025-07-25T07:20:52.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "2265f62"
+          "FilePropertiesHash": "7bc6b04"
         },
         "VIA_LigIstStat_All_LigReg_Ligumi.bas": {
           "FileHash": "fc899c5",
-          "ExportDate": "2025-07-25T07:19:04.000Z",
+          "ExportDate": "2025-07-25T07:20:52.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "3d7e07b"
+          "FilePropertiesHash": "f128a58"
         },
         "VIA_LigIstStat_All_LigReg_UzDat.bas": {
           "FileHash": "b02ef74",
-          "ExportDate": "2025-07-25T07:19:04.000Z",
+          "ExportDate": "2025-07-25T07:20:52.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "11e4885"
+          "FilePropertiesHash": "c38f748"
         },
         "VIA_LigIstStat_All_LigReg_UzDat_vneiet.bas": {
           "FileHash": "489a774",
-          "ExportDate": "2025-07-25T07:19:04.000Z",
+          "ExportDate": "2025-07-25T07:20:52.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "e082d41"
+          "FilePropertiesHash": "9c93cdb"
         },
         "VIA_LigIstStat_All_LigReg_UzDat_vneiet2.bas": {
           "FileHash": "b132400",
-          "ExportDate": "2025-07-25T07:19:04.000Z",
+          "ExportDate": "2025-07-25T07:20:52.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "33167ea"
+          "FilePropertiesHash": "cdaf25e"
         },
         "VIA_LigIstStat_Maksajumi.bas": {
           "FileHash": "0c25386",
-          "ExportDate": "2025-07-25T07:19:04.000Z",
+          "ExportDate": "2025-07-25T07:20:53.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "57aae74"
+          "FilePropertiesHash": "67eea82"
         },
         "VIA_LigIstStat_Maksajumi_gr.bas": {
           "FileHash": "cdb7d75",
-          "ExportDate": "2025-07-25T07:19:04.000Z",
+          "ExportDate": "2025-07-25T07:20:53.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "5d658c5"
+          "FilePropertiesHash": "1de53b7"
         },
         "VIA_LigIstStat_Uzdatumu.bas": {
           "FileHash": "97439c2",
-          "ExportDate": "2025-07-25T07:19:04.000Z",
+          "ExportDate": "2025-07-25T07:20:53.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "f9bc6e3"
+          "FilePropertiesHash": "477ccd2"
         },
         "VIA_LigIstStat_Uzdatumu_LigInfo_gr_vBezIstValsim.bas": {
           "FileHash": "37662b8",
-          "ExportDate": "2025-07-25T07:19:04.000Z",
+          "ExportDate": "2025-07-25T07:20:53.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "e2a00f4"
+          "FilePropertiesHash": "5c58034"
         },
         "VIA_LigIstStat_Uzdatumu_LigInfo_IstV_gr.bas": {
           "FileHash": "2cba626",
-          "ExportDate": "2025-07-25T07:19:04.000Z",
+          "ExportDate": "2025-07-25T07:20:53.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "e7b6cc6"
+          "FilePropertiesHash": "79f583b"
         },
         "VIA_LigIstStat_Uzdatumu_LigInfo_LigV_gr.bas": {
           "FileHash": "160e77e",
-          "ExportDate": "2025-07-25T07:19:04.000Z",
+          "ExportDate": "2025-07-25T07:20:53.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "8135a5e"
+          "FilePropertiesHash": "0b6a96b"
         },
         "VIA_LigIstStat_Uzdatumu_LigMaksInfo.bas": {
           "FileHash": "ea7afe5",
-          "ExportDate": "2025-07-25T07:19:04.000Z",
+          "ExportDate": "2025-07-25T07:20:53.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "e177a0f"
+          "FilePropertiesHash": "ed28e3a"
         },
         "VIA_LigIstStat_Uzdatumu_LigReg.bas": {
           "FileHash": "bf7b61d",
-          "ExportDate": "2025-07-25T07:19:04.000Z",
+          "ExportDate": "2025-07-25T07:20:53.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "797bd91"
+          "FilePropertiesHash": "1e01bfd"
         },
         "VIA_LigSam_IstIrLig.bas": {
           "FileHash": "92669ac",
-          "ExportDate": "2025-07-25T07:19:04.000Z",
+          "ExportDate": "2025-07-25T07:20:53.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "d380dfe"
+          "FilePropertiesHash": "dbfffc4"
         },
         "VIA_LigSam_LigIstApm_PirmsDat.bas": {
           "FileHash": "b394e57",
-          "ExportDate": "2025-07-25T07:19:04.000Z",
+          "ExportDate": "2025-07-25T07:20:53.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "3489f67"
+          "FilePropertiesHash": "86179aa"
         },
         "VIA_LigSam_LigIstSam.bas": {
           "FileHash": "0e0168e",
-          "ExportDate": "2025-07-25T07:19:04.000Z",
+          "ExportDate": "2025-07-25T07:20:53.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "313fd6d"
+          "FilePropertiesHash": "c178031"
         },
         "VIA_parb_IstBezLig.bas": {
           "FileHash": "363bfd8",
-          "ExportDate": "2025-07-25T07:19:04.000Z",
+          "ExportDate": "2025-07-25T07:20:53.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "217048c"
+          "FilePropertiesHash": "9bd6ed4"
         },
         "VIA_parb_LigIst_Uzdatumu_LigInfo.bas": {
           "FileHash": "1b7d6af",
-          "ExportDate": "2025-07-25T07:19:04.000Z",
+          "ExportDate": "2025-07-25T07:20:53.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "91cdd32"
+          "FilePropertiesHash": "0764cfe"
         },
         "VIA_parb_LigIst_Uzdatumu_LigInfo-Rez.bas": {
           "FileHash": "0762b43",
-          "ExportDate": "2025-07-25T07:19:05.000Z",
+          "ExportDate": "2025-07-25T07:20:53.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "3e4792b"
+          "FilePropertiesHash": "a67dbf3"
         },
         "VIA_PersUztDok.bas": {
           "FileHash": "978e3f6",
-          "ExportDate": "2025-07-25T07:19:05.000Z",
+          "ExportDate": "2025-07-25T07:20:53.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "ba660ff"
+          "FilePropertiesHash": "b52a9c1"
         },
         "VIA_StudStatData.bas": {
           "FileHash": "f96ecab",
-          "ExportDate": "2025-07-25T07:19:05.000Z",
+          "ExportDate": "2025-07-25T07:20:53.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "ff8f307"
+          "FilePropertiesHash": "98e3dd5"
         },
         "ViesnLigKoment_LastKoment.bas": {
           "FileHash": "05d6b05",
-          "ExportDate": "2025-07-25T07:19:05.000Z",
+          "ExportDate": "2025-07-25T07:20:53.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "c928755"
+          "FilePropertiesHash": "b63d70a"
         },
         "ViesnLigKoment_MaxID.bas": {
           "FileHash": "220faff",
-          "ExportDate": "2025-07-25T07:19:05.000Z",
+          "ExportDate": "2025-07-25T07:20:53.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "402eef2"
+          "FilePropertiesHash": "177368d"
         },
         "z_EKonv_LigumiSpeka.bas": {
           "FileHash": "8db0515",
-          "ExportDate": "2025-07-25T07:19:05.000Z",
+          "ExportDate": "2025-07-25T07:20:53.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "a77b685"
+          "FilePropertiesHash": "6dd1485"
         },
         "z_EKonv_LigumiSpeka_1-1_KopePrevVert.bas": {
           "FileHash": "d0efec3",
-          "ExportDate": "2025-07-25T07:19:05.000Z",
+          "ExportDate": "2025-07-25T07:20:53.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "8d978a4"
+          "FilePropertiesHash": "680d74b"
         },
         "z_EKonv_LigumiSpeka_1-2_KonverteUzEur.bas": {
           "FileHash": "183b265",
-          "ExportDate": "2025-07-25T07:19:05.000Z",
+          "ExportDate": "2025-07-25T07:20:53.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "e0f6eb1"
+          "FilePropertiesHash": "b595b4b"
         },
         "z_EKonv_LigumiSpeka_2-1_PA_KopePrevVert.bas": {
           "FileHash": "c91479a",
-          "ExportDate": "2025-07-25T07:19:05.000Z",
+          "ExportDate": "2025-07-25T07:20:53.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "59814a0"
+          "FilePropertiesHash": "96888dc"
         },
         "z_EKonv_LigumiSpeka_2-2_PA_KonverteUzEur.bas": {
           "FileHash": "b4e24e4",
-          "ExportDate": "2025-07-25T07:19:05.000Z",
+          "ExportDate": "2025-07-25T07:20:53.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "9b733ef"
+          "FilePropertiesHash": "49b69ff"
         },
         "z_ib_VIA_DzivoUzSodienu.bas": {
           "FileHash": "9346104",
-          "ExportDate": "2025-07-25T07:19:05.000Z",
+          "ExportDate": "2025-07-25T07:20:54.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "4f0a073"
+          "FilePropertiesHash": "9321f13"
         },
         "z_ib_VIA_DzivoUzSodienu_ligumi.bas": {
           "FileHash": "f271bac",
-          "ExportDate": "2025-07-25T07:19:05.000Z",
+          "ExportDate": "2025-07-25T07:20:54.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "755f0f6"
+          "FilePropertiesHash": "c625343"
         },
         "zdel VIA_LigIst_Uzdatumu_LigInfo.bas": {
           "FileHash": "33a9fb3",
-          "ExportDate": "2025-07-25T07:19:05.000Z",
+          "ExportDate": "2025-07-25T07:20:54.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "7e80324"
+          "FilePropertiesHash": "8537067"
         },
         "zver_240226_ar_Cert_ VIA_LigIst_Uzdatumu_LigInfo.bas": {
           "FileHash": "4cb9775",
-          "ExportDate": "2025-07-25T07:19:05.000Z",
+          "ExportDate": "2025-07-25T07:20:54.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "5fa8c28"
+          "FilePropertiesHash": "b2e4ddc"
         }
       },
       "Reports": {
         "JTM_Bridinajums.bas": {
           "FileHash": "c0cbfc2",
-          "ExportDate": "2025-07-25T07:19:09.000Z",
+          "ExportDate": "2025-07-25T07:20:58.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "cabe13a"
+          "FilePropertiesHash": "1b34c0b"
         },
         "JTM_Bridinajums_eng.bas": {
           "FileHash": "56b3688",
-          "ExportDate": "2025-07-25T07:19:17.000Z",
+          "ExportDate": "2025-07-25T07:21:05.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "4aa0921"
+          "FilePropertiesHash": "f417300"
         },
         "JTM_Izz_Dzivo.bas": {
           "FileHash": "3f0ec17",
-          "ExportDate": "2025-07-25T07:19:14.000Z",
+          "ExportDate": "2025-07-25T07:21:03.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "1d94bb8"
+          "FilePropertiesHash": "bed75f5"
         },
         "JTM_Izz_Dzivo_eng.bas": {
           "FileHash": "2c547cc",
-          "ExportDate": "2025-07-25T07:19:16.000Z",
+          "ExportDate": "2025-07-25T07:21:05.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "c3a4453"
+          "FilePropertiesHash": "51f3479"
         },
         "JTM_Pazinojums.bas": {
           "FileHash": "d503f7b",
-          "ExportDate": "2025-07-25T07:19:08.000Z",
+          "ExportDate": "2025-07-25T07:20:56.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "c5ddb6a"
+          "FilePropertiesHash": "bf8935b"
         },
         "JTM_Pazinojums_eng.bas": {
           "FileHash": "b678b6f",
-          "ExportDate": "2025-07-25T07:19:14.000Z",
+          "ExportDate": "2025-07-25T07:21:03.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "f0bf7ed"
+          "FilePropertiesHash": "820b610"
         },
         "JTM_Pazinojums_engddd.bas": {
           "FileHash": "f0ad370",
-          "ExportDate": "2025-07-25T07:19:14.000Z",
+          "ExportDate": "2025-07-25T07:21:02.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "4123849"
+          "FilePropertiesHash": "f30f1f0"
         },
         "MZAkts.bas": {
           "FileHash": "712194f",
-          "ExportDate": "2025-07-25T07:19:17.000Z",
+          "ExportDate": "2025-07-25T07:21:05.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "dd774b2"
+          "FilePropertiesHash": "35ca532"
         },
         "MZAkts_eng.bas": {
           "FileHash": "2fc2943",
-          "ExportDate": "2025-07-25T07:19:14.000Z",
+          "ExportDate": "2025-07-25T07:21:02.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "0c9857a"
+          "FilePropertiesHash": "d960e88"
         },
         "MZAkts_eng_sub.bas": {
           "FileHash": "ec05eae",
           "OtherHash": "4f07f79",
-          "ExportDate": "2025-07-25T07:19:15.000Z",
+          "ExportDate": "2025-07-25T07:21:03.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "cb6a473"
+          "FilePropertiesHash": "9c2078d"
         },
         "MZAkts_sub.bas": {
           "FileHash": "a7b839a",
           "OtherHash": "4f07f79",
-          "ExportDate": "2025-07-25T07:19:15.000Z",
+          "ExportDate": "2025-07-25T07:21:03.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "0340bf5"
+          "FilePropertiesHash": "3cfe26b"
         },
         "Studenta_ligums.bas": {
           "FileHash": "3351aa2",
-          "ExportDate": "2025-07-25T07:19:10.000Z",
+          "ExportDate": "2025-07-25T07:20:58.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "6c427b6"
+          "FilePropertiesHash": "7411122"
         },
         "Studenta_ligums_eng.bas": {
           "FileHash": "69b7ae1",
-          "ExportDate": "2025-07-25T07:19:16.000Z",
+          "ExportDate": "2025-07-25T07:21:05.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "cb26f9d"
+          "FilePropertiesHash": "8cd0e73"
         },
         "Studenta_ligums_PielADala.bas": {
           "FileHash": "0aa6a4f",
-          "ExportDate": "2025-07-25T07:19:07.000Z",
+          "ExportDate": "2025-07-25T07:20:56.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "e9c1d88"
+          "FilePropertiesHash": "c6540be"
         },
         "Studenti sub.bas": {
           "FileHash": "bbfbcff",
-          "ExportDate": "2025-07-25T07:19:15.000Z",
+          "ExportDate": "2025-07-25T07:21:03.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "1700c22"
+          "FilePropertiesHash": "313598a"
         },
         "Studenti_Eng_InvIst_sub.bas": {
           "FileHash": "dd56a5c",
           "OtherHash": "4f07f79",
-          "ExportDate": "2025-07-25T07:19:15.000Z",
+          "ExportDate": "2025-07-25T07:21:03.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "447885a"
+          "FilePropertiesHash": "3da21ad"
         },
         "Studenti_Eng_InvSanem_sub.bas": {
           "FileHash": "fba639d",
           "OtherHash": "4f07f79",
-          "ExportDate": "2025-07-25T07:19:15.000Z",
+          "ExportDate": "2025-07-25T07:21:03.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "1755cd7"
+          "FilePropertiesHash": "5ad903c"
         },
         "Studenti_InvIst_sub.bas": {
           "FileHash": "6b81332",
           "OtherHash": "4f07f79",
-          "ExportDate": "2025-07-25T07:19:08.000Z",
+          "ExportDate": "2025-07-25T07:20:56.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "91fb7d5"
+          "FilePropertiesHash": "d506bdd"
         },
         "Studenti_InvSanem_sub.bas": {
           "FileHash": "d0cb30c",
           "OtherHash": "4f07f79",
-          "ExportDate": "2025-07-25T07:19:15.000Z",
+          "ExportDate": "2025-07-25T07:21:03.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "5e615d8"
+          "FilePropertiesHash": "c0118b6"
         },
         "Viesa_ligums.bas": {
           "FileHash": "a6172c9",
           "OtherHash": "ca28e1a",
-          "ExportDate": "2025-07-25T07:19:10.000Z",
+          "ExportDate": "2025-07-25T07:20:58.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "6989e9b"
+          "FilePropertiesHash": "9e9d97e"
         },
         "Viesa_ligums_DS.bas": {
           "FileHash": "0827b9e",
           "OtherHash": "ca28e1a",
-          "ExportDate": "2025-07-25T07:19:08.000Z",
+          "ExportDate": "2025-07-25T07:20:56.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "b411d7b"
+          "FilePropertiesHash": "c6c5547"
         },
         "Viesa_ligums_DS_eng.bas": {
           "FileHash": "fdf88f7",
           "OtherHash": "e786830",
-          "ExportDate": "2025-07-25T07:19:16.000Z",
+          "ExportDate": "2025-07-25T07:21:04.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "991cda7"
+          "FilePropertiesHash": "5be3620"
         },
         "Viesa_ligums_eng.bas": {
           "FileHash": "f44b079",
           "OtherHash": "e786830",
-          "ExportDate": "2025-07-25T07:19:16.000Z",
+          "ExportDate": "2025-07-25T07:21:04.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "f1595e8"
+          "FilePropertiesHash": "2496d02"
         },
         "Viesa_ligums_eng_sub.bas": {
           "FileHash": "7b95471",
-          "ExportDate": "2025-07-25T07:19:15.000Z",
+          "ExportDate": "2025-07-25T07:21:03.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "7b70eba"
+          "FilePropertiesHash": "ffd4e16"
         },
         "Viesa_ligums_PielADala.bas": {
           "FileHash": "2a4b2d1",
-          "ExportDate": "2025-07-25T07:19:07.000Z",
+          "ExportDate": "2025-07-25T07:20:56.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "bf496f2"
+          "FilePropertiesHash": "9689bec"
         },
         "Viesa_ligums_ru.bas": {
           "FileHash": "4ca9355",
           "OtherHash": "e786830",
-          "ExportDate": "2025-07-25T07:19:09.000Z",
+          "ExportDate": "2025-07-25T07:20:57.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "44edc55"
+          "FilePropertiesHash": "baa7ce8"
         },
         "ViesaCiti_ligums.bas": {
           "FileHash": "5d95b51",
-          "ExportDate": "2025-07-25T07:19:10.000Z",
+          "ExportDate": "2025-07-25T07:20:58.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "1d9a900"
+          "FilePropertiesHash": "86376ed"
         },
         "ViesaCiti_ligums_eng.bas": {
           "FileHash": "507f792",
-          "ExportDate": "2025-07-25T07:19:15.000Z",
+          "ExportDate": "2025-07-25T07:21:03.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "3ac5543"
+          "FilePropertiesHash": "2d143de"
         },
         "Viesi sub.bas": {
           "FileHash": "6762cff",
-          "ExportDate": "2025-07-25T07:19:14.000Z",
+          "ExportDate": "2025-07-25T07:21:03.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "bc0aa46"
+          "FilePropertiesHash": "b1f8cff"
         },
         "Viesn_caurlaide.bas": {
           "FileHash": "409724a",
-          "ExportDate": "2025-07-25T07:19:08.000Z",
+          "ExportDate": "2025-07-25T07:20:56.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "048f543"
+          "FilePropertiesHash": "b789db1"
         }
       },
       "Saved Specs": {
         "Export-Saraksts.json": {
           "FileHash": "0a89bf0",
-          "ExportDate": "2025-07-25T07:18:55.000Z",
+          "ExportDate": "2025-07-25T07:20:43.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "fa54bf8"
+          "FilePropertiesHash": "6fe1ab1"
         }
       },
       "Tables": {
         "aa_Obj.xml": {
           "FileHash": "719ef3f",
-          "ExportDate": "2025-07-25T07:18:55.000Z",
+          "ExportDate": "2025-07-25T07:20:44.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "f7fd925"
+          "FilePropertiesHash": "019a3a3"
         },
         "dbo_Abs_IzsnDiplSar.json": {
           "FileHash": "a9d77b8",
-          "ExportDate": "2025-07-25T07:18:55.000Z",
+          "ExportDate": "2025-07-25T07:20:44.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "50b4005"
+          "FilePropertiesHash": "5d55dd3"
+        },
+        "dbo_Apt_vad.xml": {
+          "FileHash": "44a4f25",
+          "ExportDate": "2025-07-25T07:20:44.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "4fe8558"
         },
         "dbo_aud_Personas.json": {
           "FileHash": "cc50ec2",
-          "ExportDate": "2025-07-25T07:18:55.000Z",
+          "ExportDate": "2025-07-25T07:20:44.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "2ab55b8"
+          "FilePropertiesHash": "2d624e9"
         },
-        "dbo_crl_Caurlaides.json": {
-          "FileHash": "07480d9",
-          "ExportDate": "2025-07-25T07:18:55.000Z",
+        "dbo_crl_Caurlaides.xml": {
+          "FileHash": "dc277d5",
+          "ExportDate": "2025-07-25T07:20:44.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "81cf245"
+          "FilePropertiesHash": "0dc0973"
+        },
+        "dbo_crl_CaurlaidesSql.json": {
+          "FileHash": "906edf6",
+          "ExportDate": "2025-07-25T07:20:44.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "35e0eea"
         },
         "dbo_crl_KlientuTipi.json": {
           "FileHash": "4c1bae5",
-          "ExportDate": "2025-07-25T07:18:55.000Z",
+          "ExportDate": "2025-07-25T07:20:44.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "a436e5b"
+          "FilePropertiesHash": "c0880c5"
         },
         "dbo_crl_NrDiapazoni.json": {
           "FileHash": "5b1b02d",
-          "ExportDate": "2025-07-25T07:18:55.000Z",
+          "ExportDate": "2025-07-25T07:20:44.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "9d21655"
+          "FilePropertiesHash": "04de973"
         },
         "dbo_crl_Veidi.json": {
           "FileHash": "be87f58",
-          "ExportDate": "2025-07-25T07:18:55.000Z",
+          "ExportDate": "2025-07-25T07:20:44.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "6649c46"
+          "FilePropertiesHash": "44c521f"
         },
         "dbo_KA_Nodalas.json": {
           "FileHash": "3592b44",
-          "ExportDate": "2025-07-25T07:18:55.000Z",
+          "ExportDate": "2025-07-25T07:20:44.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "f5f3dcb"
+          "FilePropertiesHash": "90a9a87"
         },
         "dbo_kd_Grupas.json": {
           "FileHash": "45d71d9",
-          "ExportDate": "2025-07-25T07:18:55.000Z",
+          "ExportDate": "2025-07-25T07:20:44.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "a3a6321"
+          "FilePropertiesHash": "36c08d7"
         },
         "dbo_kd_Kursanti.json": {
           "FileHash": "e566b0b",
-          "ExportDate": "2025-07-25T07:18:55.000Z",
+          "ExportDate": "2025-07-25T07:20:44.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "e909d9e"
+          "FilePropertiesHash": "4daf342"
+        },
+        "dbo_kd_Tames_saturs.xml": {
+          "FileHash": "dec5dc7",
+          "ExportDate": "2025-07-25T07:20:44.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "820d58b"
         },
         "dbo_kl_Adresem_RPP.json": {
           "FileHash": "6759123",
-          "ExportDate": "2025-07-25T07:18:55.000Z",
+          "ExportDate": "2025-07-25T07:20:44.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "c55ba71"
+          "FilePropertiesHash": "962517b"
         },
         "dbo_kl_Darbibas.json": {
           "FileHash": "a60e523",
-          "ExportDate": "2025-07-25T07:18:55.000Z",
+          "ExportDate": "2025-07-25T07:20:44.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "f5f3dcb"
+          "FilePropertiesHash": "90a9a87"
         },
         "dbo_kl_Kodi.json": {
           "FileHash": "133bfdf",
-          "ExportDate": "2025-07-25T07:18:55.000Z",
+          "ExportDate": "2025-07-25T07:20:44.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "0ea6ec9"
+          "FilePropertiesHash": "b380b39"
         },
         "dbo_kl_Kodi_vl.xml": {
           "FileHash": "3356dbc",
-          "ExportDate": "2025-07-25T07:18:55.000Z",
+          "ExportDate": "2025-07-25T07:20:44.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "d443c1d"
+          "FilePropertiesHash": "340318e"
         },
         "dbo_kl_Logins.json": {
           "FileHash": "2c6b444",
-          "ExportDate": "2025-07-25T07:18:55.000Z",
+          "ExportDate": "2025-07-25T07:20:44.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "c823898"
+          "FilePropertiesHash": "c9f8bf3"
         },
         "dbo_kl_LoginsRights.json": {
           "FileHash": "c5acfc5",
-          "ExportDate": "2025-07-25T07:18:55.000Z",
+          "ExportDate": "2025-07-25T07:20:44.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "a436e5b"
+          "FilePropertiesHash": "c0880c5"
         },
         "dbo_kl_v_Login_Rights.json": {
           "FileHash": "239001d",
-          "ExportDate": "2025-07-25T07:18:55.000Z",
+          "ExportDate": "2025-07-25T07:20:44.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "ca75dca"
+          "FilePropertiesHash": "a54b4ca"
         },
         "dbo_Ligumi2006.json": {
           "FileHash": "b6f2622",
-          "ExportDate": "2025-07-25T07:18:55.000Z",
+          "ExportDate": "2025-07-25T07:20:44.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "4b779aa"
+          "FilePropertiesHash": "7b0935a"
         },
         "dbo_Ligumi2013.json": {
           "FileHash": "2e9e617",
-          "ExportDate": "2025-07-25T07:18:55.000Z",
+          "ExportDate": "2025-07-25T07:20:44.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "4b779aa"
+          "FilePropertiesHash": "7b0935a"
         },
         "dbo_pd_PA_ZK.json": {
           "FileHash": "5261621",
-          "ExportDate": "2025-07-25T07:18:55.000Z",
+          "ExportDate": "2025-07-25T07:20:44.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "96f9665"
+          "FilePropertiesHash": "515b554"
         },
         "dbo_Personas.json": {
           "FileHash": "2d1016b",
-          "ExportDate": "2025-07-25T07:18:55.000Z",
+          "ExportDate": "2025-07-25T07:20:44.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "4e4c348"
+          "FilePropertiesHash": "176b70d"
         },
         "dbo_Personas_Cert.json": {
           "FileHash": "cfb217e",
-          "ExportDate": "2025-07-25T07:18:55.000Z",
+          "ExportDate": "2025-07-25T07:20:44.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "8c8c7c5"
+          "FilePropertiesHash": "c30e40f"
         },
         "dbo_prot_Protokoli.json": {
           "FileHash": "058f403",
-          "ExportDate": "2025-07-25T07:18:55.000Z",
+          "ExportDate": "2025-07-25T07:20:44.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "2ab55b8"
+          "FilePropertiesHash": "2d624e9"
         },
         "dbo_sm_DepLig.json": {
           "FileHash": "784657b",
-          "ExportDate": "2025-07-25T07:18:55.000Z",
+          "ExportDate": "2025-07-25T07:20:44.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "3a52b50"
+          "FilePropertiesHash": "bfcf5bb"
         },
         "dbo_Spool.json": {
           "FileHash": "a12b5b4",
-          "ExportDate": "2025-07-25T07:18:55.000Z",
+          "ExportDate": "2025-07-25T07:20:44.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "f29fb06"
+          "FilePropertiesHash": "a213ad0"
         },
         "dbo_Spool2000_KA.json": {
           "FileHash": "48ccf02",
-          "ExportDate": "2025-07-25T07:18:55.000Z",
+          "ExportDate": "2025-07-25T07:20:44.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "9d21655"
+          "FilePropertiesHash": "04de973"
         },
         "dbo_st_Aizliegumi.json": {
           "FileHash": "effc944",
-          "ExportDate": "2025-07-25T07:18:55.000Z",
+          "ExportDate": "2025-07-25T07:20:44.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "853051e"
+          "FilePropertiesHash": "fe11a8f"
         },
         "dbo_st_Iem_Aizl.json": {
           "FileHash": "16bb906",
-          "ExportDate": "2025-07-25T07:18:55.000Z",
+          "ExportDate": "2025-07-25T07:20:44.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "6649c46"
+          "FilePropertiesHash": "44c521f"
         },
         "dbo_st_Iemesli.json": {
           "FileHash": "187b89d",
-          "ExportDate": "2025-07-25T07:18:55.000Z",
+          "ExportDate": "2025-07-25T07:20:44.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "2ab55b8"
+          "FilePropertiesHash": "2d624e9"
         },
         "dbo_st_Stop.json": {
           "FileHash": "472f835",
-          "ExportDate": "2025-07-25T07:18:55.000Z",
+          "ExportDate": "2025-07-25T07:20:44.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "f29fb06"
+          "FilePropertiesHash": "a213ad0"
         },
         "dbo_st_Tiesibas.json": {
           "FileHash": "e932ec9",
-          "ExportDate": "2025-07-25T07:18:55.000Z",
+          "ExportDate": "2025-07-25T07:20:44.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "5a54b56"
+          "FilePropertiesHash": "113d352"
         },
         "dbo_STL_kl_Valsts.json": {
           "FileHash": "d1ff175",
-          "ExportDate": "2025-07-25T07:18:55.000Z",
+          "ExportDate": "2025-07-25T07:20:44.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "f5f3dcb"
+          "FilePropertiesHash": "90a9a87"
         },
         "dbo_STL_PersLigData.json": {
           "FileHash": "5e2b73e",
-          "ExportDate": "2025-07-25T07:18:55.000Z",
+          "ExportDate": "2025-07-25T07:20:44.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "0db084a"
+          "FilePropertiesHash": "83dc322"
         },
         "dbo_stl_Stud_LastMGR_Data.json": {
           "FileHash": "1fef0f2",
-          "ExportDate": "2025-07-25T07:18:55.000Z",
+          "ExportDate": "2025-07-25T07:20:44.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "062e123"
+          "FilePropertiesHash": "60573aa"
         },
         "dbo_Stop.json": {
           "FileHash": "ee758ad",
-          "ExportDate": "2025-07-25T07:18:55.000Z",
+          "ExportDate": "2025-07-25T07:20:44.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "50b9c32"
+          "FilePropertiesHash": "57fe863"
         },
         "dbo_StStat_StudSar_StudTab.json": {
           "FileHash": "413e979",
-          "ExportDate": "2025-07-25T07:18:55.000Z",
+          "ExportDate": "2025-07-25T07:20:44.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "f29fb06"
+          "FilePropertiesHash": "a213ad0"
         },
         "dbo_viesn_Caurlaides.json": {
           "FileHash": "0c814bb",
-          "ExportDate": "2025-07-25T07:18:55.000Z",
+          "ExportDate": "2025-07-25T07:20:44.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "81cf245"
+          "FilePropertiesHash": "4823e75"
         },
         "dbo_Viesn_Inventars.json": {
           "FileHash": "8b297e0",
-          "ExportDate": "2025-07-25T07:18:55.000Z",
+          "ExportDate": "2025-07-25T07:20:44.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "c55ba71"
+          "FilePropertiesHash": "962517b"
         },
         "dbo_Viesn_Inventars1.xml": {
           "FileHash": "ad230d1",
-          "ExportDate": "2025-07-25T07:18:55.000Z",
+          "ExportDate": "2025-07-25T07:20:44.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "b39b1b7"
+          "FilePropertiesHash": "bc4bf33"
         },
         "dbo_Viesn_Izzinas.json": {
           "FileHash": "5842259",
-          "ExportDate": "2025-07-25T07:18:55.000Z",
+          "ExportDate": "2025-07-25T07:20:44.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "87bc9db"
+          "FilePropertiesHash": "23aac73"
         },
         "dbo_viesn_kl_Istabas.json": {
           "FileHash": "dcf9dbe",
-          "ExportDate": "2025-07-25T07:18:55.000Z",
+          "ExportDate": "2025-07-25T07:20:44.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "93740e0"
+          "FilePropertiesHash": "61be9ea"
         },
         "dbo_viesn_kl_LBData.json": {
           "FileHash": "3bfee55",
-          "ExportDate": "2025-07-25T07:18:55.000Z",
+          "ExportDate": "2025-07-25T07:20:44.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "ee4ce05"
+          "FilePropertiesHash": "9879e6b"
         },
         "dbo_viesn_kl_LBData_231211.xml": {
           "FileHash": "383142a",
-          "ExportDate": "2025-07-25T07:18:56.000Z",
+          "ExportDate": "2025-07-25T07:20:44.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "fe99a4c"
+          "FilePropertiesHash": "ce96ca4"
         },
         "dbo_Viesn_kl_Saskanotaji.xml": {
           "FileHash": "c3c42b8",
-          "ExportDate": "2025-07-25T07:18:56.000Z",
+          "ExportDate": "2025-07-25T07:20:44.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "18f21f6"
+          "FilePropertiesHash": "5805780"
         },
         "dbo_viesn_Ligumi.json": {
           "FileHash": "77db8ba",
-          "ExportDate": "2025-07-25T07:18:56.000Z",
+          "ExportDate": "2025-07-25T07:20:44.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "e813958"
+          "FilePropertiesHash": "9879e6b"
         },
         "dbo_viesn_Ligumi_Inv.json": {
           "FileHash": "00890e1",
-          "ExportDate": "2025-07-25T07:18:56.000Z",
+          "ExportDate": "2025-07-25T07:20:44.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "3d7769b"
+          "FilePropertiesHash": "0c5da78"
         },
         "dbo_viesn_Ligumi_Istabas.json": {
           "FileHash": "ff1b223",
-          "ExportDate": "2025-07-25T07:18:56.000Z",
+          "ExportDate": "2025-07-25T07:20:44.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "6ea6286"
+          "FilePropertiesHash": "9344325"
         },
         "dbo_viesn_Ligumi_Komentari.json": {
           "FileHash": "d8f7ecc",
-          "ExportDate": "2025-07-25T07:18:56.000Z",
+          "ExportDate": "2025-07-25T07:20:44.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "6340351"
+          "FilePropertiesHash": "9a5fec3"
         },
         "dbo_viesn_Ligumi_PApr.json": {
           "FileHash": "1d89f9d",
-          "ExportDate": "2025-07-25T07:18:56.000Z",
+          "ExportDate": "2025-07-25T07:20:44.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "bcab88e"
+          "FilePropertiesHash": "0c3b768"
         },
         "dbo_viesn_Ligumi_PApr_Maksajumi.json": {
           "FileHash": "5f28fc5",
-          "ExportDate": "2025-07-25T07:18:56.000Z",
+          "ExportDate": "2025-07-25T07:20:44.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "9c0e886"
+          "FilePropertiesHash": "c4a45a2"
         },
         "dbo_viesn_Ligumi_VValstis.json": {
           "FileHash": "8a76eb8",
-          "ExportDate": "2025-07-25T07:18:56.000Z",
+          "ExportDate": "2025-07-25T07:20:44.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "648b1d4"
+          "FilePropertiesHash": "052f3a8"
         },
         "dbo_viesn_Maksajumi.json": {
           "FileHash": "c89f782",
-          "ExportDate": "2025-07-25T07:18:56.000Z",
+          "ExportDate": "2025-07-25T07:20:44.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "c571785"
+          "FilePropertiesHash": "61be9ea"
         },
         "dbo_viesn_MPazinojumi.json": {
           "FileHash": "cd577a7",
-          "ExportDate": "2025-07-25T07:18:56.000Z",
+          "ExportDate": "2025-07-25T07:20:44.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "7d8fc77"
+          "FilePropertiesHash": "2028c00"
         },
         "dbo_Viesn_MZAkts.json": {
           "FileHash": "4303156",
-          "ExportDate": "2025-07-25T07:18:56.000Z",
+          "ExportDate": "2025-07-25T07:20:44.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "de080ce"
+          "FilePropertiesHash": "176b70d"
         },
         "dbo_Viesn_MZAkts_saturs.json": {
           "FileHash": "4749856",
-          "ExportDate": "2025-07-25T07:18:56.000Z",
+          "ExportDate": "2025-07-25T07:20:44.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "bcab88e"
+          "FilePropertiesHash": "0c3b768"
         },
         "dbo_Viesn_PAprikojums.json": {
           "FileHash": "a5769c0",
-          "ExportDate": "2025-07-25T07:18:56.000Z",
+          "ExportDate": "2025-07-25T07:20:44.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "1beb142"
+          "FilePropertiesHash": "fe11a8f"
         },
         "dbo_Viesn_Rezervesana.json": {
           "FileHash": "8cf39e3",
-          "ExportDate": "2025-07-25T07:18:56.000Z",
+          "ExportDate": "2025-07-25T07:20:44.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "30f22dc"
+          "FilePropertiesHash": "35e0eea"
         },
         "dbo_Viesn_Rezervesana_del.json": {
           "FileHash": "262d96a",
-          "ExportDate": "2025-07-25T07:18:56.000Z",
+          "ExportDate": "2025-07-25T07:20:44.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "39a9645"
+          "FilePropertiesHash": "922d70f"
         },
         "tmp_ApmParadnieki_UzDat.xml": {
           "FileHash": "22bec2c",
-          "ExportDate": "2025-07-25T07:18:56.000Z",
+          "ExportDate": "2025-07-25T07:20:45.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "7d0f45f"
+          "FilePropertiesHash": "7433ebb"
         },
         "tmp_IB_LigBezPID.xml": {
           "FileHash": "d210aa4",
-          "ExportDate": "2025-07-25T07:18:56.000Z",
+          "ExportDate": "2025-07-25T07:20:45.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "175a242"
+          "FilePropertiesHash": "79b67fc"
         },
         "tmp_KA_cdata.xml": {
           "FileHash": "101c88e",
-          "ExportDate": "2025-07-25T07:18:56.000Z",
+          "ExportDate": "2025-07-25T07:20:45.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "5a5e603"
+          "FilePropertiesHash": "5a170f6"
         },
         "tmp_ParskatsPaValstim.xml": {
           "FileHash": "1b0f99c",
-          "ExportDate": "2025-07-25T07:18:56.000Z",
+          "ExportDate": "2025-07-25T07:20:45.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "f1f3a00"
+          "FilePropertiesHash": "85bf091"
         },
         "tmp_RezStudStat.xml": {
           "FileHash": "0825854",
-          "ExportDate": "2025-07-25T07:18:56.000Z",
+          "ExportDate": "2025-07-25T07:20:45.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "61c6e6f"
+          "FilePropertiesHash": "7190284"
         },
         "tmp_StStat.xml": {
           "FileHash": "f952f18",
-          "ExportDate": "2025-07-25T07:18:56.000Z",
+          "ExportDate": "2025-07-25T07:20:45.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "6cc15e6"
+          "FilePropertiesHash": "b600609"
         },
         "VtQoDefTemp0000.json": {
           "FileHash": "945b918",
-          "ExportDate": "2025-07-25T07:18:56.000Z",
+          "ExportDate": "2025-07-25T07:20:45.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "9fe33db"
+          "FilePropertiesHash": "c262f34"
         }
       },
       "VB Project": {
         "vbe-project.json": {
           "FileHash": "5179eb6",
-          "ExportDate": "2025-07-25T07:18:55.000Z",
+          "ExportDate": "2025-07-25T07:20:43.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "9cb346a"
+          "FilePropertiesHash": "2063c58"
         }
       },
       "VBE References": {
         "vbe-references.json": {
           "FileHash": "93e775e",
-          "ExportDate": "2025-07-25T07:18:55.000Z",
+          "ExportDate": "2025-07-25T07:20:43.000Z",
           "SourceModified": null,
-          "FilePropertiesHash": "898882f"
+          "FilePropertiesHash": "197a5bf"
         }
       }
     }

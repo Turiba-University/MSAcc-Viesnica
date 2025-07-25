@@ -112,12 +112,36 @@ Private Sub Form_Open(Cancel As Integer)
 End Sub
 
 Private Sub LabotAutoNr_Click()
-    Dim a
-    If IsNull(Me.AutoNr) Then
-        a = InputBox("Ievadiet automašīnas Nr:", "Kase")
-    Else
-        a = InputBox("Ievadiet automašīnas Nr:", "Kase", Me.AutoNr)
-    End If
+    Dim a As String
+    Dim regex As Object
+    Set regex = CreateObject("VBScript.RegExp")
+
+    With regex
+        .Pattern = "^[A-Za-z0-9,; ]*$" ' allow space
+        .IgnoreCase = True
+        .Global = True
+    End With
+
+    Do
+        If IsNull(Me.AutoNr) Then
+            a = InputBox("Ievadiet automainas Nr:", "Kase")
+        Else
+            a = InputBox("Ievadiet automainas Nr:", "Kase", Me.AutoNr)
+        End If
+
+        ' Detect Cancel pressed
+        If StrPtr(a) = 0 Then Exit Sub
+
+        ' Validate input (including empty string)
+        If Not regex.Test(a) Then
+            MsgBox "Atlauti tikai burti, cipari, ',' un ';'", vbExclamation, "Nederiga ievade"
+        Else
+            Exit Do ' valid input, including empty, so exit loop
+        End If
+
+    Loop
+
+    ' Save (including blank) and move to next
     Me.AutoNr = a
     DoCmd.GoToRecord , , acNext
 End Sub
