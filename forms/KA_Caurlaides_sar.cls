@@ -117,7 +117,7 @@ Private Sub LabotAutoNr_Click()
     Set regex = CreateObject("VBScript.RegExp")
 
     With regex
-        .Pattern = "^[A-Za-z0-9,;]*$"
+        .Pattern = "^[A-Za-z0-9,;-]*$"
         .IgnoreCase = True
         .Global = True
     End With
@@ -134,7 +134,7 @@ Private Sub LabotAutoNr_Click()
 
         ' Validate input (including empty string)
         If Not regex.Test(a) Then
-            MsgBox "Atļauti ir tikai burti, cipari, ',' un ';'", vbExclamation, "Nederīga ievade"
+            MsgBox "Atļauti ir tikai burti, cipari, domuzīmes, ',' un ';'", vbExclamation, "Nederīga ievade"
         Else
             Exit Do ' valid input, including empty, so exit loop
         End If

@@ -9,7 +9,7 @@ Private Sub AutoNr_BeforeUpdate(Cancel As Integer)
     Dim inputValue As String
 
     Set regex = CreateObject("VBScript.RegExp")
-    regex.Pattern = "^[A-Za-z0-9,;]*$"
+    regex.Pattern = "^[A-Za-z0-9,;-]*$"
     regex.IgnoreCase = True
     regex.Global = False
 
@@ -22,7 +22,7 @@ Private Sub AutoNr_BeforeUpdate(Cancel As Integer)
         ' Valid input
         Exit Sub
     Else
-        MsgBox "Kļūdains AutoNr. Tikai burti, cipari un izņēmumos komati un semikoli ir atļauti. Atstarpes ir aizliegtas!", vbExclamation
+        MsgBox "Atļauti ir tikai burti, cipari, domuzīmes, ',' un ';'", vbExclamation, "Nederīga ievade"
         Cancel = True  ' Prevents focus from leaving the control
     End If
 End Sub
