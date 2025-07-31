@@ -1,0 +1,18 @@
+﻿{
+  "Info": {
+    "Class": "clsDbConnection",
+    "Description": "Database connections used within the project used to prime Access' internal cache during import."
+  },
+  "Items": {
+    "ODBC;Driver=SQL Server;SERVER=stagars;DATABASE=ALIGUMI01": {
+      "ODBC;Description=ALIGUMI01;DRIVER=SQL Server;SERVER=stagars;Trusted_Connection=Yes;APP=Microsoft® Windows® Operating System;DATABASE=ALIGUMI01": "dbo_Abs_IzsnDiplSar",
+      "ODBC;Description=ALIGUMI01;DRIVER=SQL Server;SERVER=stagars;APP=Microsoft Data Access Components;WSID=IBHP;DATABASE=ALIGUMI01;Network=DBMSSOCN;Address=192.168.255.237,1433;Trusted_Connection=Yes": "dbo_aud_Personas"
+    },
+    "ODBC;Driver=ODBC Driver 17 for SQL Server;SERVER=stagars;DATABASE=ALIGUMI01": {
+      "ODBC;Description=ALigumi01;DRIVER=ODBC Driver 17 for SQL Server;SERVER=stagars;Trusted_Connection=Yes;APP=Microsoft® Windows® Operating System;DATABASE=ALIGUMI01;": "dbo_st_Tiesibas"
+    },
+    "ODBC;Driver=SQL Server;SERVER=stagars;DATABASE=ALIGUMI01;UID=Imants": {
+      "ODBC;Description=ALIGUMI01;DRIVER=SQL Server;SERVER=stagars;UID=Imants;APP=Microsoft Data Access Components;WSID=IBHP;DATABASE=ALIGUMI01;Network=DBMSSOCN;Address=192.168.255.237,1433;Trusted_Connection=Yes": "VtQoDefTemp0000"
+    }
+  }
+}

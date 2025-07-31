@@ -1,0 +1,10 @@
+﻿{
+  "Info": {
+    "Class": "clsDbProjProperty",
+    "Description": "Project Properties (Access)"
+  },
+  "Items": {
+    "VCS Build Path": "H:\\ISD\\Projekti\\Viesnica",
+    "VCS Source Path": "C:\\github\\MSAcc-Viesnica"
+  }
+}
