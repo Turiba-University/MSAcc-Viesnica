@@ -1,0 +1,174 @@
+﻿<?xml version="1.0"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:od="urn:schemas-microsoft-com:officedata">
+  <xsd:element name="dataroot">
+    <xsd:complexType>
+      <xsd:sequence>
+        <xsd:element ref="tmp_ParskatsPaValstim" minOccurs="0" maxOccurs="unbounded"></xsd:element>
+      </xsd:sequence>
+      <xsd:attribute name="generated" type="xsd:dateTime"></xsd:attribute>
+    </xsd:complexType>
+  </xsd:element>
+  <xsd:element name="tmp_ParskatsPaValstim">
+    <xsd:annotation>
+      <xsd:appinfo>
+        <od:tableProperty name="Orientation" type="2" value="0"></od:tableProperty>
+        <od:tableProperty name="OrderByOn" type="1" value="1"></od:tableProperty>
+        <od:tableProperty name="Filter" type="12" value="((Not tmp_ParskatsPaValstim.Valsts=&quot;Latvija&quot;))"></od:tableProperty>
+        <od:tableProperty name="OrderBy" type="12" value="tmp_ParskatsPaValstim.Valsts"></od:tableProperty>
+      </xsd:appinfo>
+    </xsd:annotation>
+    <xsd:complexType>
+      <xsd:sequence>
+        <xsd:element name="Datums" minOccurs="0" od:jetType="datetime" od:sqlSType="datetime" type="xsd:dateTime">
+          <xsd:annotation>
+            <xsd:appinfo>
+              <od:fieldProperty name="ColumnWidth" type="3" value="-1"></od:fieldProperty>
+              <od:fieldProperty name="ColumnOrder" type="3" value="1"></od:fieldProperty>
+              <od:fieldProperty name="ColumnHidden" type="1" value="0"></od:fieldProperty>
+              <od:fieldProperty name="Required" type="1" value="0"></od:fieldProperty>
+            </xsd:appinfo>
+          </xsd:annotation>
+        </xsd:element>
+        <xsd:element name="LigNr" minOccurs="0" od:jetType="longinteger" od:sqlSType="int" type="xsd:int">
+          <xsd:annotation>
+            <xsd:appinfo>
+              <od:fieldProperty name="ColumnWidth" type="3" value="-1"></od:fieldProperty>
+              <od:fieldProperty name="ColumnOrder" type="3" value="0"></od:fieldProperty>
+              <od:fieldProperty name="ColumnHidden" type="1" value="0"></od:fieldProperty>
+              <od:fieldProperty name="DecimalPlaces" type="2" value="255"></od:fieldProperty>
+              <od:fieldProperty name="DefaultValue" type="12" value="0"></od:fieldProperty>
+              <od:fieldProperty name="Required" type="1" value="0"></od:fieldProperty>
+              <od:fieldProperty name="DisplayControl" type="3" value="109"></od:fieldProperty>
+            </xsd:appinfo>
+          </xsd:annotation>
+        </xsd:element>
+        <xsd:element name="IstNr" minOccurs="0" od:jetType="longinteger" od:sqlSType="int" type="xsd:int">
+          <xsd:annotation>
+            <xsd:appinfo>
+              <od:fieldProperty name="ColumnWidth" type="3" value="-1"></od:fieldProperty>
+              <od:fieldProperty name="ColumnOrder" type="3" value="0"></od:fieldProperty>
+              <od:fieldProperty name="ColumnHidden" type="1" value="0"></od:fieldProperty>
+              <od:fieldProperty name="DecimalPlaces" type="2" value="255"></od:fieldProperty>
+              <od:fieldProperty name="DefaultValue" type="12" value="0"></od:fieldProperty>
+              <od:fieldProperty name="Required" type="1" value="0"></od:fieldProperty>
+              <od:fieldProperty name="DisplayControl" type="3" value="109"></od:fieldProperty>
+            </xsd:appinfo>
+          </xsd:annotation>
+        </xsd:element>
+        <xsd:element name="Valsts" minOccurs="0" od:jetType="text" od:sqlSType="nvarchar">
+          <xsd:annotation>
+            <xsd:appinfo>
+              <od:fieldProperty name="ColumnWidth" type="3" value="-1"></od:fieldProperty>
+              <od:fieldProperty name="ColumnOrder" type="3" value="0"></od:fieldProperty>
+              <od:fieldProperty name="ColumnHidden" type="1" value="0"></od:fieldProperty>
+              <od:fieldProperty name="Required" type="1" value="0"></od:fieldProperty>
+              <od:fieldProperty name="AllowZeroLength" type="1" value="0"></od:fieldProperty>
+              <od:fieldProperty name="DisplayControl" type="3" value="109"></od:fieldProperty>
+              <od:fieldProperty name="UnicodeCompression" type="1" value="0"></od:fieldProperty>
+            </xsd:appinfo>
+          </xsd:annotation>
+          <xsd:simpleType>
+            <xsd:restriction base="xsd:string">
+              <xsd:maxLength value="50"></xsd:maxLength>
+            </xsd:restriction>
+          </xsd:simpleType>
+        </xsd:element>
+        <xsd:element name="Pers_ID" minOccurs="0" od:jetType="longinteger" od:sqlSType="int" type="xsd:int">
+          <xsd:annotation>
+            <xsd:appinfo>
+              <od:fieldProperty name="ColumnWidth" type="3" value="-1"></od:fieldProperty>
+              <od:fieldProperty name="ColumnOrder" type="3" value="0"></od:fieldProperty>
+              <od:fieldProperty name="ColumnHidden" type="1" value="0"></od:fieldProperty>
+              <od:fieldProperty name="DecimalPlaces" type="2" value="255"></od:fieldProperty>
+              <od:fieldProperty name="Required" type="1" value="0"></od:fieldProperty>
+              <od:fieldProperty name="DisplayControl" type="3" value="109"></od:fieldProperty>
+            </xsd:appinfo>
+          </xsd:annotation>
+        </xsd:element>
+        <xsd:element name="Sk" minOccurs="0" od:jetType="longinteger" od:sqlSType="int" type="xsd:int">
+          <xsd:annotation>
+            <xsd:appinfo>
+              <od:fieldProperty name="ColumnWidth" type="3" value="-1"></od:fieldProperty>
+              <od:fieldProperty name="ColumnOrder" type="3" value="0"></od:fieldProperty>
+              <od:fieldProperty name="ColumnHidden" type="1" value="0"></od:fieldProperty>
+              <od:fieldProperty name="DecimalPlaces" type="2" value="255"></od:fieldProperty>
+              <od:fieldProperty name="Required" type="1" value="0"></od:fieldProperty>
+              <od:fieldProperty name="DisplayControl" type="3" value="109"></od:fieldProperty>
+            </xsd:appinfo>
+          </xsd:annotation>
+        </xsd:element>
+        <xsd:element name="Tips" minOccurs="0" od:jetType="text" od:sqlSType="nvarchar">
+          <xsd:annotation>
+            <xsd:appinfo>
+              <od:fieldProperty name="ColumnWidth" type="3" value="-1"></od:fieldProperty>
+              <od:fieldProperty name="ColumnOrder" type="3" value="0"></od:fieldProperty>
+              <od:fieldProperty name="ColumnHidden" type="1" value="0"></od:fieldProperty>
+              <od:fieldProperty name="Required" type="1" value="0"></od:fieldProperty>
+              <od:fieldProperty name="AllowZeroLength" type="1" value="0"></od:fieldProperty>
+              <od:fieldProperty name="DisplayControl" type="3" value="109"></od:fieldProperty>
+              <od:fieldProperty name="UnicodeCompression" type="1" value="1"></od:fieldProperty>
+            </xsd:appinfo>
+          </xsd:annotation>
+          <xsd:simpleType>
+            <xsd:restriction base="xsd:string">
+              <xsd:maxLength value="50"></xsd:maxLength>
+            </xsd:restriction>
+          </xsd:simpleType>
+        </xsd:element>
+        <xsd:element name="SumJamaksa" minOccurs="0" od:jetType="single" od:sqlSType="real" type="xsd:float">
+          <xsd:annotation>
+            <xsd:appinfo>
+              <od:fieldProperty name="ColumnWidth" type="3" value="-1"></od:fieldProperty>
+              <od:fieldProperty name="ColumnOrder" type="3" value="0"></od:fieldProperty>
+              <od:fieldProperty name="ColumnHidden" type="1" value="0"></od:fieldProperty>
+              <od:fieldProperty name="DecimalPlaces" type="2" value="255"></od:fieldProperty>
+              <od:fieldProperty name="DefaultValue" type="12" value="0"></od:fieldProperty>
+              <od:fieldProperty name="Required" type="1" value="0"></od:fieldProperty>
+              <od:fieldProperty name="DisplayControl" type="3" value="109"></od:fieldProperty>
+            </xsd:appinfo>
+          </xsd:annotation>
+        </xsd:element>
+        <xsd:element name="SumNoIepr" minOccurs="0" od:jetType="integer" od:sqlSType="smallint" type="xsd:short">
+          <xsd:annotation>
+            <xsd:appinfo>
+              <od:fieldProperty name="ColumnWidth" type="3" value="1215"></od:fieldProperty>
+              <od:fieldProperty name="ColumnOrder" type="3" value="0"></od:fieldProperty>
+              <od:fieldProperty name="ColumnHidden" type="1" value="0"></od:fieldProperty>
+              <od:fieldProperty name="DecimalPlaces" type="2" value="255"></od:fieldProperty>
+              <od:fieldProperty name="DefaultValue" type="12" value="0"></od:fieldProperty>
+              <od:fieldProperty name="Required" type="1" value="0"></od:fieldProperty>
+              <od:fieldProperty name="DisplayControl" type="3" value="109"></od:fieldProperty>
+            </xsd:appinfo>
+          </xsd:annotation>
+        </xsd:element>
+        <xsd:element name="MaksVeids" minOccurs="0" od:jetType="integer" od:sqlSType="smallint" type="xsd:short">
+          <xsd:annotation>
+            <xsd:appinfo>
+              <od:fieldProperty name="ColumnWidth" type="3" value="1155"></od:fieldProperty>
+              <od:fieldProperty name="ColumnOrder" type="3" value="0"></od:fieldProperty>
+              <od:fieldProperty name="ColumnHidden" type="1" value="0"></od:fieldProperty>
+              <od:fieldProperty name="DecimalPlaces" type="2" value="255"></od:fieldProperty>
+              <od:fieldProperty name="DefaultValue" type="12" value="0"></od:fieldProperty>
+              <od:fieldProperty name="Required" type="1" value="0"></od:fieldProperty>
+              <od:fieldProperty name="DisplayControl" type="3" value="109"></od:fieldProperty>
+            </xsd:appinfo>
+          </xsd:annotation>
+        </xsd:element>
+        <xsd:element name="MaksTermTips" minOccurs="0" od:jetType="longinteger" od:sqlSType="int" type="xsd:int">
+          <xsd:annotation>
+            <xsd:appinfo>
+              <od:fieldProperty name="ColumnWidth" type="3" value="-1"></od:fieldProperty>
+              <od:fieldProperty name="ColumnOrder" type="3" value="0"></od:fieldProperty>
+              <od:fieldProperty name="ColumnHidden" type="1" value="0"></od:fieldProperty>
+              <od:fieldProperty name="Description" type="10" value="1-pirms per, 2-periodā, 3-pēc per."></od:fieldProperty>
+              <od:fieldProperty name="DecimalPlaces" type="2" value="255"></od:fieldProperty>
+              <od:fieldProperty name="DefaultValue" type="12" value="0"></od:fieldProperty>
+              <od:fieldProperty name="Required" type="1" value="0"></od:fieldProperty>
+              <od:fieldProperty name="DisplayControl" type="3" value="109"></od:fieldProperty>
+            </xsd:appinfo>
+          </xsd:annotation>
+        </xsd:element>
+      </xsd:sequence>
+    </xsd:complexType>
+  </xsd:element>
+</xsd:schema>

@@ -1,0 +1,13 @@
+﻿{
+  "Info": {
+    "Class": "clsDbTableDef",
+    "Description": "Linked Table"
+  },
+  "Items": {
+    "Name": "dbo_Personas_Cert",
+    "Connect": "ODBC;Description=ALIGUMI01;DRIVER=SQL Server;SERVER=stagars;Trusted_Connection=Yes;APP=Microsoft® Windows® Operating System;DATABASE=ALIGUMI01",
+    "SourceTableName": "dbo.Personas_Cert",
+    "Attributes": 536870912,
+    "PrimaryKey": "[PersCert_ID]"
+  }
+}
